@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(csv|xlsx\\)$\")",
+      "Bash(python3)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: Regional Science Dashboard *)",
+      "Bash(git commit -m 'Add data files *)",
+      "Bash(pip list *)",
+      "Bash(python3 -m pip install -q streamlit plotly pandas openpyxl altair)",
+      "Bash(python3 -m py_compile app.py)",
+      "Bash(python3 -m pip install -q -r requirements.txt)",
+      "Bash(python3 -m streamlit run app.py)",
+      "Bash(timeout 5 python3 -m streamlit run app.py --logger.level=error)",
+      "Bash(python3 -m streamlit run app.py --logger.level=error)",
+      "Bash(curl -s http://localhost:8501)",
+      "Bash(git commit -m 'Fix: Replace field codes with ANZSRC field names and fix plotly charts *)",
+      "Bash(git commit -m 'Fix: Replace deprecated use_container_width with width parameter *)",
+      "Bash(git commit -m 'Fix: Correct own-region citation share threshold from 50% to 75% *)",
+      "Bash(git commit -m 'Update: Set default filters to show all 931 publications *)",
+      "Bash(git commit -m 'Fix: Improve Excel data loading with better error handling *)",
+      "Bash(git push *)",
+      "Bash(git rm *)",
+      "Bash(git commit -m 'Re-add data files with correct file sizes *)",
+      "Bash(git pull *)",
+      "Bash(git reset *)",
+      "Bash(git commit -m 'Fix: Re-commit data files with proper content *)",
+      "Bash(git commit -m 'Fix: Add data files back to repository *)",
+      "Bash(git check-ignore *)"
+    ]
+  }
+}
