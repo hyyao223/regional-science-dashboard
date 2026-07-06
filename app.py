@@ -16,7 +16,7 @@ st.set_page_config(
 st.title("🌍 High-Impact, Region-Focused Publications")
 st.markdown("""
 Exploring publications in the top 0.1% by normalized citations that maintain strong regional focus
-(own-region citation share > 50%). This dashboard helps identify highly influential research
+(own-region citation share > 75%). This dashboard helps identify highly influential research
 concentrated within specific geographic regions.
 """)
 
@@ -121,7 +121,7 @@ min_citations = st.sidebar.slider(
 min_own_share = st.sidebar.slider(
     "Minimum Own-Region Citation Share",
     0.5, 1.0,
-    0.50,
+    0.75,
     step=0.05
 )
 
@@ -260,7 +260,7 @@ with tab3:
             color='Avg Own-Region Share',
             color_continuous_scale='Blues'
         )
-        fig_share.update_xaxes(type="linear", range=[0.5, 1.0])
+        fig_share.update_xaxes(type="linear", range=[0.75, 1.0])
         st.plotly_chart(fig_share, width="stretch")
 
 with tab4:
@@ -369,5 +369,5 @@ st.markdown("""
 - Data source: Publications from top 0.1% normalized citations, filtered for regional focus
 - Last updated: July 5, 2026
 - Methodology: Citations normalized by field and publication year; only includes publications
-  where own-region citation share exceeds 50%
+  where own-region citation share exceeds 75%
 """)

@@ -7,7 +7,7 @@ An interactive dashboard for exploring highly-cited publications with strong geo
 This dashboard analyzes 931 publications that meet three criteria:
 - **Top 0.1%** by normalized citation count (normalized by field and publication year)
 - **Regional concentration**: Authors from the same geographic region
-- **Limited diffusion**: Own-region citation share > 50%
+- **Limited diffusion**: Own-region citation share > 75%
 
 ### Data Sources
 - **topfield_lowdiff_pubs.csv** - Main dataset with citation metrics and regional data
@@ -59,7 +59,7 @@ This dashboard is hosted on [Streamlit Cloud](https://streamlit.io/cloud) for ea
 Publications were selected based on:
 1. **Citation normalization**: Citations normalized by field and publication year to ensure fair cross-field comparison
 2. **Regional filtering**: Only publications where all authors are from the same region
-3. **Geographic concentration**: Only publications where >50% of citations come from the author's region
+3. **Geographic concentration**: Only publications where >75% of citations come from the author's region
 4. **Top performance**: Only top 0.1% of publications by normalized citation count within each field
 
 This methodology identifies impactful research that is highly cited but primarily within its own geographic region.
