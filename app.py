@@ -48,34 +48,13 @@ ANZSRC_FIELD_NAMES = {
 
 @st.cache_data
 def load_data():
-    # Load CSV
-    csv_path = "topfield_lowdiff_pubs.csv"
-    df_csv = pd.read_csv(csv_path)
-
-    # Load Excel - first row is header
-    excel_path = "Dimensions-Publication-2026-07-05_23-24-23.xlsx"
-    df_excel = pd.read_excel(excel_path, sheet_name=0)
-
-    # Rename Excel columns for merging
-    excel_cols = df_excel.columns.tolist()
-    if 'Publication ID' in excel_cols:
-        df_excel.rename(columns={'Publication ID': 'PublicationID'}, inplace=True)
-
-    # Select only the columns we need
-    cols_to_merge = [col for col in ['PublicationID', 'Title', 'Abstract', 'DOI']
-                     if col in df_excel.columns]
-
-    # Merge datasets - keep all CSV records
-    df_merged = df_csv.merge(
-        df_excel[cols_to_merge],
-        on='PublicationID',
-        how='left'
-    )
+    # Load pre-merged dataset
+    df = pd.read_csv('publications_data.csv')
 
     # Map numeric field codes to field names
-    df_merged['FieldName'] = df_merged['SelectedField'].map(ANZSRC_FIELD_NAMES)
+    df['FieldName'] = df['SelectedField'].map(ANZSRC_FIELD_NAMES)
 
-    return df_merged
+    return df
 
 # Load data
 try:
