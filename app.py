@@ -54,15 +54,20 @@ def load_data():
 
     # Load Excel - first row is header
     excel_path = "Dimensions-Publication-2026-07-05_23-24-23.xlsx"
-    df_excel = pd.read_excel(excel_path, header=0)
+    df_excel = pd.read_excel(excel_path, sheet_name=0)
 
     # Rename Excel columns for merging
-    if 'Publication ID' in df_excel.columns:
+    excel_cols = df_excel.columns.tolist()
+    if 'Publication ID' in excel_cols:
         df_excel.rename(columns={'Publication ID': 'PublicationID'}, inplace=True)
+
+    # Select only the columns we need
+    cols_to_merge = [col for col in ['PublicationID', 'Title', 'Abstract', 'DOI']
+                     if col in df_excel.columns]
 
     # Merge datasets - keep all CSV records
     df_merged = df_csv.merge(
-        df_excel[['PublicationID', 'Title', 'Abstract', 'DOI']],
+        df_excel[cols_to_merge],
         on='PublicationID',
         how='left'
     )
