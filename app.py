@@ -174,7 +174,7 @@ with tab1:
             color='Count',
             color_continuous_scale='Viridis'
         )
-        st.plotly_chart(fig_year, use_container_width=True)
+        st.plotly_chart(fig_year, width="stretch")
 
     with col2:
         # Average citations by year
@@ -187,7 +187,7 @@ with tab1:
             labels={'PubYear': 'Publication Year', 'Timescited': 'Average Times Cited'},
             markers=True
         )
-        st.plotly_chart(fig_cites, use_container_width=True)
+        st.plotly_chart(fig_cites, width="stretch")
 
 with tab2:
     col1, col2 = st.columns(2)
@@ -209,7 +209,7 @@ with tab2:
             title='Publications by Field',
             labels={'Count': 'Number of Publications'}
         )
-        st.plotly_chart(fig_field, use_container_width=True)
+        st.plotly_chart(fig_field, width="stretch")
 
     with col2:
         fig_field_cites = px.bar(
@@ -221,7 +221,7 @@ with tab2:
             color='Avg Citations',
             color_continuous_scale='RdYlGn'
         )
-        st.plotly_chart(fig_field_cites, use_container_width=True)
+        st.plotly_chart(fig_field_cites, width="stretch")
 
 with tab3:
     col1, col2 = st.columns(2)
@@ -243,7 +243,7 @@ with tab3:
             color='Avg Citations',
             color_continuous_scale='Plasma'
         )
-        st.plotly_chart(fig_region, use_container_width=True)
+        st.plotly_chart(fig_region, width="stretch")
 
     with col2:
         # Own-region share by region
@@ -261,7 +261,7 @@ with tab3:
             color_continuous_scale='Blues'
         )
         fig_share.update_xaxes(type="linear", range=[0.5, 1.0])
-        st.plotly_chart(fig_share, use_container_width=True)
+        st.plotly_chart(fig_share, width="stretch")
 
 with tab4:
     # Scatter: citations vs own-region share
@@ -279,7 +279,7 @@ with tab4:
         }
     )
     fig_scatter.update_yaxes(type="log")
-    st.plotly_chart(fig_scatter, use_container_width=True)
+    st.plotly_chart(fig_scatter, width="stretch")
 
 with tab5:
     st.subheader("📋 Publication Details")
@@ -298,7 +298,7 @@ with tab5:
     # Interactive table with sorting
     st.dataframe(
         df_display.sort_values('Citations', ascending=False),
-        use_container_width=True,
+        width="stretch",
         height=400
     )
 
@@ -357,7 +357,7 @@ if len(df_filtered) > 0:
             values=[selected_pub['own_region_cite_share'], selected_pub['foregin_region_cite_share']],
             hole=0.3
         )])
-        st.plotly_chart(fig_pie, use_container_width=True)
+        st.plotly_chart(fig_pie, width="stretch")
 
 else:
     st.warning("No publications match the selected filters.")
