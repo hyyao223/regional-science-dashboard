@@ -20,15 +20,41 @@ Exploring publications in the top 0.1% by normalized citations that maintain str
 concentrated within specific geographic regions.
 """)
 
+ANZSRC_FIELD_NAMES = {
+    30: "History of Sciences",
+    31: "Philosophy & History",
+    32: "Cultural Studies",
+    33: "Anthropology",
+    34: "History of Sciences",
+    35: "Human Geography",
+    36: "Archaeology",
+    37: "Geography",
+    38: "Indigenous Studies",
+    39: "Interdisciplinary Geography",
+    40: "Physical Geography",
+    41: "Urban & Regional Planning",
+    42: "Creative Arts & Writing",
+    43: "Language & Communication",
+    44: "Linguistics",
+    45: "Literature",
+    46: "Philosophy",
+    47: "Religion & Religious Studies",
+    48: "English Language & Literature",
+    49: "Literature Studies",
+    50: "Asian-Pacific Languages",
+    51: "Language & Culture Studies",
+    52: "Social Sciences"
+}
+
 @st.cache_data
 def load_data():
     # Load CSV
     csv_path = "topfield_lowdiff_pubs.csv"
     df_csv = pd.read_csv(csv_path)
 
-    # Load Excel (skip first row which is metadata)
+    # Load Excel - first row is header
     excel_path = "Dimensions-Publication-2026-07-05_23-24-23.xlsx"
-    df_excel = pd.read_excel(excel_path, header=1)
+    df_excel = pd.read_excel(excel_path, header=0)
 
     # Rename Excel columns for merging
     if 'Publication ID' in df_excel.columns:
@@ -40,6 +66,9 @@ def load_data():
         on='PublicationID',
         how='left'
     )
+
+    # Map numeric field codes to field names
+    df_merged['FieldName'] = df_merged['SelectedField'].map(ANZSRC_FIELD_NAMES)
 
     return df_merged
 
@@ -65,7 +94,7 @@ year_range = st.sidebar.slider(
 )
 
 # Field filter
-fields = sorted(df['SelectedField'].unique())
+fields = sorted(df['FieldName'].unique())
 selected_fields = st.sidebar.multiselect(
     "Field of Study",
     fields,
@@ -100,7 +129,7 @@ min_own_share = st.sidebar.slider(
 df_filtered = df[
     (df['PubYear'] >= year_range[0]) &
     (df['PubYear'] <= year_range[1]) &
-    (df['SelectedField'].isin(selected_fields)) &
+    (df['FieldName'].isin(selected_fields)) &
     (df['region_group'].isin(selected_regions)) &
     (df['Timescited'] >= min_citations) &
     (df['own_region_cite_share'] >= min_own_share)
@@ -121,7 +150,7 @@ with col2:
 with col3:
     st.metric("Avg Own-Region Share", f"{df_filtered['own_region_cite_share'].mean():.1%}")
 with col4:
-    st.metric("Fields Covered", df_filtered['SelectedField'].nunique())
+    st.metric("Fields Covered", df_filtered['FieldName'].nunique())
 
 # Visualizations
 st.header("📈 Visualizations")
@@ -165,27 +194,29 @@ with tab2:
 
     with col1:
         # By field
-        field_data = df_filtered.groupby('SelectedField').agg({
+        field_data = df_filtered.groupby('FieldName').agg({
             'PublicationID': 'count',
             'Timescited': 'mean'
         }).reset_index()
         field_data.columns = ['Field', 'Count', 'Avg Citations']
         field_data = field_data.sort_values('Count', ascending=True)
 
-        fig_field = px.barh(
+        fig_field = px.bar(
             field_data,
-            x='Count',
             y='Field',
+            x='Count',
+            orientation='h',
             title='Publications by Field',
             labels={'Count': 'Number of Publications'}
         )
         st.plotly_chart(fig_field, use_container_width=True)
 
     with col2:
-        fig_field_cites = px.barh(
+        fig_field_cites = px.bar(
             field_data.sort_values('Avg Citations', ascending=True),
-            x='Avg Citations',
             y='Field',
+            x='Avg Citations',
+            orientation='h',
             title='Average Citations by Field',
             color='Avg Citations',
             color_continuous_scale='RdYlGn'
@@ -203,10 +234,11 @@ with tab3:
         region_data.columns = ['Region', 'Count', 'Avg Citations']
         region_data = region_data.sort_values('Count', ascending=True)
 
-        fig_region = px.barh(
+        fig_region = px.bar(
             region_data,
-            x='Count',
             y='Region',
+            x='Count',
+            orientation='h',
             title='Publications by Region',
             color='Avg Citations',
             color_continuous_scale='Plasma'
@@ -219,10 +251,11 @@ with tab3:
         share_data.columns = ['Region', 'Avg Own-Region Share']
         share_data = share_data.sort_values('Avg Own-Region Share', ascending=True)
 
-        fig_share = px.barh(
+        fig_share = px.bar(
             share_data,
-            x='Avg Own-Region Share',
             y='Region',
+            x='Avg Own-Region Share',
+            orientation='h',
             title='Average Own-Region Citation Share',
             color='Avg Own-Region Share',
             color_continuous_scale='Blues'
@@ -238,7 +271,7 @@ with tab4:
         y='Timescited',
         color='region_group',
         size='Timescited',
-        hover_data=['PubYear', 'SelectedField', 'Sourcetitle'],
+        hover_data=['PubYear', 'FieldName', 'Sourcetitle'],
         title='Citations vs Own-Region Citation Share',
         labels={
             'own_region_cite_share': 'Own-Region Citation Share',
@@ -252,7 +285,7 @@ with tab5:
     st.subheader("📋 Publication Details")
 
     # Display table
-    display_cols = ['PublicationID', 'Title', 'PubYear', 'SelectedField', 'region_group',
+    display_cols = ['PublicationID', 'Title', 'PubYear', 'FieldName', 'region_group',
                     'Timescited', 'own_region_cite_share', 'Sourcetitle']
 
     # Ensure columns exist
@@ -296,7 +329,7 @@ if len(df_filtered) > 0:
         with meta_col2:
             st.metric("Citations", int(selected_pub['Timescited']))
         with meta_col3:
-            st.metric("Field", selected_pub['SelectedField'])
+            st.metric("Field", selected_pub['FieldName'])
         with meta_col4:
             st.metric("Region", selected_pub['region_group'])
 
