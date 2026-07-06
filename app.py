@@ -98,7 +98,7 @@ fields = sorted(df['FieldName'].unique())
 selected_fields = st.sidebar.multiselect(
     "Field of Study",
     fields,
-    default=fields[:5] if len(fields) > 5 else fields
+    default=fields
 )
 
 # Region filter
@@ -114,14 +114,14 @@ min_citations = st.sidebar.slider(
     "Minimum Times Cited",
     int(df['Timescited'].min()),
     int(df['Timescited'].max()),
-    int(df['Timescited'].quantile(0.25))
+    int(df['Timescited'].min())
 )
 
 # Own-region citation share
 min_own_share = st.sidebar.slider(
     "Minimum Own-Region Citation Share",
     0.5, 1.0,
-    0.75,
+    0.5,
     step=0.05
 )
 
