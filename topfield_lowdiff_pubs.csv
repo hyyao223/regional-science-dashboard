@@ -1,0 +1,932 @@
+PublicationID,PubYear,Sourcetitle,Timescited,SelectedField,region_group,own_region_cite_share,foregin_region_cite_share
+pub.1000285104,2014,Angewandte Chemie International Edition,848,34,China,.76060951,.23939049
+pub.1000427963,2011,Advanced Materials,1452,40,China,.75180095,.24819905
+pub.1000459635,2014,Global and Planetary Change,840,37,China,.81116199,.18883801
+pub.1000528724,2016,Angewandte Chemie International Edition,734,34,China,.76526523,.23473477
+pub.1000794703,1986,The Urban Review,2163,39,United States,.83289742,.16710258
+pub.1000815864,2006,Automatica,1703,46,China,.77523565,.22476435
+pub.1001226889,2014,Advanced Materials,1076,40,China,.75092357,.24907643
+pub.1001321877,2015,Journal of the American Chemical Society,890,34,China,.77541572,.22458428
+pub.1001578676,2016,African Journal of Agricultural Research,422,30,Rest Mid/Low Income,.96579987,.034200132
+pub.1001699254,1989,Geological Society London Special Publications,1365,37,European Union,.80190372,.19809628
+pub.1001729374,2014,Science,926,34,China,.8087309,.1912691
+pub.1001908892,1995,Journal of Health Economics,889,44,European Union,.77771425,.22228575
+pub.1001926252,1987,Educational and Psychological Measurement,556,39,United States,.87845063,.12154937
+pub.1002205599,2011,Scandinavian Journal of Public Health,3271,42,European Union,.95098805,.049011946
+pub.1002481180,2006,Pharmacoepidemiology and Drug Safety,1336,32,European Union,.91915578,.080844223
+pub.1002530078,2006,Energy Policy,1142,33,China,.80560642,.19439358
+pub.1002622394,1986,Sex Roles,649,44,United States,.75377971,.24622029
+pub.1002686111,2016,European Journal of Epidemiology,1015,42,European Union,.88418943,.11581057
+pub.1002692627,2014,Genome Biology,455,30,China,.77860802,.22139198
+pub.1003047287,2006,JAMA,1511,32,United States,.75253129,.24746871
+pub.1003337851,2016,Journal of Radiation Research and Applied Sciences,717,32,Rest Mid/Low Income,.75172573,.24827427
+pub.1003447587,1984,Bulletin of the Chemical Society of Japan,671,34,Rest High Income,.87473315,.12526685
+pub.1003960129,2015,Journal of the American Chemical Society,1442,34,China,.85740435,.14259565
+pub.1004358805,1999,American Psychologist,2139,52,United States,.8776741,.1223259
+pub.1004417217,2016,Nature Communications,1291,32,China,.77963114,.22036886
+pub.1004521928,2010,Carbon,1567,40,China,.77798599,.22201401
+pub.1004621038,2009,Journal of Petrology,2930,37,China,.87599951,.12400049
+pub.1004745724,1995,Theory Into Practice,1724,39,United States,.84903508,.15096492
+pub.1004796391,2012,New England Journal of Medicine,1363,42,United States,.85316283,.14683717
+pub.1004844449,2015,Advanced Functional Materials,889,40,China,.8336072,.1663928
+pub.1005142378,2012,Advanced Functional Materials,818,40,China,.81572276,.18427724
+pub.1005163720,2014,Nature Communications,1268,40,China,.77242362,.22757638
+pub.1005248087,2014,BMC Systems Biology,3453,31,China,.75390548,.24609452
+pub.1005309575,2018,Journal of King Saud University - Science,542,32,Rest Mid/Low Income,.8382203,.1617797
+pub.1005854677,1996,Acta Paediatrica,1520,32,European Union,.89300019,.10699981
+pub.1006128817,2016,Advanced Materials,870,40,China,.87127686,.12872314
+pub.1006534318,2005,Cell Research,1925,31,China,.77823019,.22176981
+pub.1006724153,1980,American Political Science Review,656,44,United States,.778934,.221066
+pub.1006793573,2012,Journal of the American Chemical Society,1902,40,China,.77077955,.22922045
+pub.1006935323,1994,Harvard Educational Review,582,39,United States,.81893384,.18106616
+pub.1007174835,1992,Theory Into Practice,4272,39,United States,.77412915,.22587085
+pub.1007192124,2012,Advanced Functional Materials,3014,34,China,.76990521,.23009479
+pub.1007363805,2015,ACS Nano,1357,34,China,.80360645,.19639355
+pub.1007377109,1994,American Political Science Review,1480,44,United States,.79131734,.20868266
+pub.1007738909,2013,Journal of Clinical Oncology,929,32,China,.81184626,.18815374
+pub.1007982336,2016,International Journal of Nonlinear Sciences and Numerical Simulation,458,49,Rest Mid/Low Income,.76237339,.23762661
+pub.1008185863,1983,Contemporary Educational Psychology,705,39,United States,.79626405,.20373595
+pub.1008383277,2015,Nature Structural & Molecular Biology,2286,31,China,.81747413,.18252587
+pub.1008475731,2012,Educational Researcher,2027,39,United States,.89432687,.10567313
+pub.1008508526,1994,Journal of Applied Behavior Analysis,1935,52,United States,.90341598,.096584022
+pub.1008764402,2008,Global and Planetary Change,2433,37,European Union,.79401755,.20598245
+pub.1009138305,2014,Advanced Materials,803,40,China,.91198617,.088013828
+pub.1009873843,2000,Social Forces,1105,44,United States,.95850271,.04149729
+pub.1010098383,2011,Annals of Surgical Oncology,1163,32,Rest High Income,.75780523,.24219477
+pub.1010300491,2013,Nucleic Acids Research,1416,31,China,.89002192,.10997808
+pub.1010430960,2011,European Neuropsychopharmacology,2988,32,European Union,.79183465,.20816535
+pub.1010472626,2006,Zeitschrift für Erziehungswissenschaft,1181,39,European Union,.81729198,.18270802
+pub.1010591925,2009,Analytica Chimica Acta,1072,40,China,.79205877,.20794123
+pub.1010701600,2011,International Journal of Robust and Nonlinear Control,748,40,China,.84681237,.15318763
+pub.1010742773,2016,Advanced Materials,702,40,China,.75102603,.24897397
+pub.1011011892,2016,Proceedings of the National Academy of Sciences of the United States of America,1528,32,United States,.87709194,.12290806
+pub.1011080230,2015,Harvard Educational Review,1385,39,United States,.79409283,.20590717
+pub.1011150491,2010,BMC Medical Education,2014,32,United States,.81390536,.18609464
+pub.1011438367,2015,Advanced Functional Materials,690,40,China,.81308156,.18691844
+pub.1011598435,1982,Journal of Homosexuality,481,44,United States,.77132601,.22867399
+pub.1011604033,2012,International Journal of Epidemiology,2414,42,European Union,.8018015,.1981985
+pub.1012091650,2011,JAMA,1269,42,United States,.83830303,.16169697
+pub.1012143222,2011,Earth and Planetary Science Letters,1079,37,China,.85070831,.14929169
+pub.1012550378,1983,American Political Science Review,491,44,United States,.80507249,.19492751
+pub.1012574022,2015,Angewandte Chemie International Edition,1088,34,China,.78771913,.21228087
+pub.1012859430,2011,Advanced Materials,761,40,China,.83541089,.16458911
+pub.1013069259,2003,Physical Review A,1526,51,China,.87688023,.12311977
+pub.1013269363,2014,JAMA,7020,32,United States,.79376292,.20623708
+pub.1013353210,2015,Advanced Materials,3333,34,China,.75588733,.24411267
+pub.1013458401,2010,Journal of High Energy Physics,1758,51,European Union,.77806997,.22193003
+pub.1013618797,2007,Journal of Research in Science Teaching,1332,39,United States,.79310381,.20689619
+pub.1013726545,1996,Journal of the American Academy of Child & Adolescent Psychiatry,1373,32,United States,.81395012,.18604988
+pub.1013792396,2014,Journal of Geographical Sciences,1289,37,China,.86939335,.13060665
+pub.1014043986,2015,Journal of the American Chemical Society,916,34,China,.78663385,.21336615
+pub.1014351056,2002,The Urban Review,1118,39,United States,.9319151,.068084896
+pub.1014569484,1980,American Political Science Review,628,44,United States,.7650584,.2349416
+pub.1014632542,2016,Science,463,43,United States,.80484134,.19515866
+pub.1014723864,2013,Nature Materials,776,40,China,.77842766,.22157234
+pub.1014928761,2015,International Journal of Epidemiology,1998,42,European Union,.8206327,.1793673
+pub.1014945568,2016,European Heart Journal,745,32,China,.90656489,.093435109
+pub.1015260582,2014,Energy Policy,612,48,European Union,.89263511,.10736489
+pub.1015331006,2006,Chemical Geology,2178,37,China,.85120457,.14879543
+pub.1015336335,2016,JAMA Internal Medicine,852,32,United States,.84796876,.15203124
+pub.1015747816,2005,Clinical Biochemistry,2469,32,Rest Mid/Low Income,.81224442,.18775558
+pub.1015782440,2016,Angewandte Chemie International Edition,733,34,China,.75248867,.24751133
+pub.1015804585,2014,Energy & Environmental Science,665,40,China,.82159954,.17840046
+pub.1015993704,2016,Angewandte Chemie International Edition,956,34,China,.78496498,.21503502
+pub.1016293873,1994,Evaluation and Program Planning,405,48,United States,.84662217,.15337783
+pub.1016314525,2010,Annals of the New York Academy of Sciences,1070,44,United States,.85135472,.14864528
+pub.1016402067,1983,Il Nuovo Cimento B (1971-1996),388,48,Rest Mid/Low Income,.95452791,.045472085
+pub.1016584149,2005,Bioinformatics,2765,31,China,.89185899,.10814101
+pub.1016631696,1998,Criminology,1160,44,United States,.88333333,.11666667
+pub.1016741686,2014,Nanoscale,769,40,China,.76777273,.23222727
+pub.1017116208,2016,JAMA Psychiatry,738,32,United States,.7652759,.2347241
+pub.1017193039,2016,Advanced Materials,759,40,China,.80244291,.19755709
+pub.1017238531,2003,Arquivos de Neuro-Psiquiatria,1667,32,Rest Mid/Low Income,.92004693,.079953074
+pub.1017730443,2014,Advanced Energy Materials,1064,40,China,.76509178,.23490822
+pub.1017766268,2017,Agricultural Water Management,451,30,China,.77273017,.22726983
+pub.1017904405,2006,Water Research,1493,40,China,.79029906,.20970094
+pub.1018237663,2015,Molecular Plant,1558,31,China,.7877773,.2122227
+pub.1019163165,1988,Educational Researcher,526,39,United States,.75174421,.24825579
+pub.1019298183,2008,New England Journal of Medicine,1245,32,United States,.7741425,.2258575
+pub.1019683221,2016,The Science of The Total Environment,1099,41,China,.8412413,.1587587
+pub.1019775275,2017,Carbon,638,40,China,.92452109,.075478911
+pub.1019796448,1987,Aquaculture,400,30,European Union,.85311311,.14688689
+pub.1020064843,2012,International Journal of Epidemiology,1920,42,European Union,.78978932,.21021068
+pub.1020268679,2013,Molecular Cell,1842,31,China,.78727478,.21272522
+pub.1020342491,2014,Land Use Policy,861,44,China,.84943384,.15056616
+pub.1020378552,2015,Angewandte Chemie International Edition,1255,34,China,.75595903,.24404097
+pub.1020472887,2014,Cancer Cell,1375,31,China,.91234684,.08765316
+pub.1020621423,1985,Journal of Consulting and Clinical Psychology,1646,52,United States,.93455124,.065448761
+pub.1020683444,2016,Philosophical Transactions of the Royal Society B Biological Sciences,872,31,United States,.79139131,.20860869
+pub.1020713736,1998,Technology Analysis and Strategic Management,1781,35,European Union,.77518809,.22481191
+pub.1021095295,2016,Chemosphere,830,34,China,.85695285,.14304715
+pub.1021265648,2014,BMC Pediatrics,1183,32,United States,.82264131,.17735869
+pub.1021566264,2015,Journal of Molecular Diagnostics,1576,32,United States,.79982227,.20017773
+pub.1021750582,2005,Journal of Symbolic Computation,977,49,China,.78488994,.21511006
+pub.1021760785,2013,Neurology,938,32,United States,.77031696,.22968304
+pub.1021919324,2007,Medical Care,2405,42,United States,.78632373,.21367627
+pub.1021920505,2002,Harvard Educational Review,1238,39,United States,.77904344,.22095656
+pub.1022482018,2000,Journal of Clinical Epidemiology,1650,42,United States,.88513976,.11486024
+pub.1022808099,1991,Journal of Social and Personal Relationships,656,44,United States,.83218157,.16781843
+pub.1022837851,2014,International Journal of Epidemiology,1598,42,Rest High Income,.91055799,.089442015
+pub.1023250788,2016,ACS Nano,655,40,China,.8685745,.1314255
+pub.1023591603,2007,American Psychologist,3638,52,United States,.82428682,.17571318
+pub.1023625876,1999,Child Development,766,39,United States,.81194693,.18805307
+pub.1024385897,2011,Journal of Nutrition,1022,32,European Union,.82622039,.17377961
+pub.1024482723,2002,Modern Law Review,463,48,European Union,.83333331,.16666669
+pub.1024810523,2016,ACS Nano,794,40,China,.87194067,.12805933
+pub.1024830580,2016,Nano Energy,1079,40,China,.83749831,.16250169
+pub.1025079994,2016,Journal of Radiation Research and Applied Sciences,884,31,Rest Mid/Low Income,.79841179,.20158821
+pub.1025146609,1995,Proceedings of the National Academy of Sciences of the United States of America,733,30,United States,.83311766,.16688234
+pub.1025184350,2016,Journal of the American Chemical Society,883,34,China,.78759688,.21240312
+pub.1025318208,2000,Criminology,1596,44,United States,.7670393,.2329607
+pub.1025555213,2015,JAMA Pediatrics,885,32,United States,.75303417,.24696583
+pub.1025621493,2013,Advanced Materials,1031,34,China,.80879617,.19120383
+pub.1025636111,2013,Advanced Materials,780,40,China,.76212847,.23787153
+pub.1025756253,2013,Energy & Environmental Science,1048,34,China,.78239924,.21760076
+pub.1026182512,2013,Advanced Materials,1089,34,China,.7835269,.2164731
+pub.1026190487,1999,JAMA,1714,42,United States,.85805553,.14194447
+pub.1026295335,2012,The Lancet,1875,32,China,.88570988,.11429012
+pub.1026449927,2013,Atmospheric Chemistry and Physics,1024,37,China,.79389089,.20610911
+pub.1026527941,2013,Carbon,989,40,China,.81376469,.18623531
+pub.1026548136,2003,Educational Researcher,1369,39,United States,.81886423,.18113577
+pub.1026733589,2015,Proceedings of the National Academy of Sciences of the United States of America,1952,42,United States,.79733741,.20266259
+pub.1026819070,2010,Petroleum Exploration and Development,873,40,China,.8972367,.1027633
+pub.1027066548,2001,Phytotherapy Research,1394,34,Rest Mid/Low Income,.76052308,.23947692
+pub.1027340377,2008,Texto & Contexto - Enfermagem,1430,42,Rest Mid/Low Income,.94623983,.053760171
+pub.1027408846,2014,Nature Communications,877,34,China,.75661737,.24338263
+pub.1027513982,2004,Journal of Geophysical Research,1073,40,United States,.76453096,.23546904
+pub.1027527185,2012,Journal of Regional Science,880,33,European Union,.76101977,.23898023
+pub.1027747680,2011,Regulatory Toxicology and Pharmacology,1153,32,United States,.81511277,.18488723
+pub.1028046959,2014,Advanced Functional Materials,683,40,China,.76162571,.23837429
+pub.1028054183,2014,JAMA Psychiatry,945,32,United States,.88392144,.11607856
+pub.1028269736,2011,Assessment,1477,52,United States,.80674958,.19325042
+pub.1028319414,2007,New Directions for Student Services,525,36,United States,.9351145,.064885497
+pub.1028358194,2012,Bone Marrow Transplantation,12733,32,Rest High Income,.94585913,.054140866
+pub.1028587064,2014,Advanced Functional Materials,645,40,China,.76190442,.23809558
+pub.1028661503,2015,Journal of the American Chemical Society,747,40,China,.84749824,.15250176
+pub.1028755433,2012,Physical Review Letters,718,49,European Union,.82551128,.17448872
+pub.1029179218,2016,Nano Letters,1271,40,China,.77116543,.22883457
+pub.1030126967,2000,Journal of Environmental Management,1490,44,European Union,.7998088,.2001912
+pub.1030312536,2014,Advanced Materials,699,40,China,.8233065,.1766935
+pub.1030414231,2016,Advanced Materials,1158,34,China,.78216666,.21783334
+pub.1030515098,2004,Physical Review A,1046,51,China,.85652906,.14347094
+pub.1030524480,2004,Advanced Materials,1804,40,China,.8315981,.1684019
+pub.1030594650,1997,Optics Communications,952,51,United States,.85274935,.14725065
+pub.1031021102,1991,Communication Monographs,708,47,United States,.77734375,.22265625
+pub.1031236821,2013,Nucleic Acids Research,4056,31,China,.84478801,.15521199
+pub.1031418832,2008,Sex Roles,1034,44,United States,.76188344,.23811656
+pub.1031736432,2017,Applied Catalysis B Environmental,749,40,China,.80378848,.19621152
+pub.1031749854,2015,Applied Nanoscience,674,40,Rest Mid/Low Income,.7784937,.2215063
+pub.1032105182,2001,Monatsschrift Kinderheilkunde,1888,32,European Union,.97293305,.027066946
+pub.1032145024,2010,Daedalus,421,36,United States,.89700001,.10299999
+pub.1032350269,2015,Nature Communications,789,32,China,.82904267,.17095733
+pub.1032447499,1993,Journal of Computational Physics,922,49,European Union,.75698507,.24301493
+pub.1032715613,2016,Information Communication & Society,512,47,European Union,.75647247,.24352753
+pub.1033561272,1987,Anthropology & Education Quarterly,657,39,United States,.8160364,.1839636
+pub.1033597446,2013,Water Research,804,40,China,.82221317,.17778683
+pub.1033796903,2016,The Lancet Oncology,705,32,China,.86240196,.13759804
+pub.1033902489,2015,Science Advances,1112,37,United States,.7667793,.2332207
+pub.1034056594,2017,Automatica,667,40,China,.84671295,.15328705
+pub.1034128575,2016,Cancer Cell,875,32,China,.90562946,.094370544
+pub.1034254359,2009,European Journal of Epidemiology,1726,42,European Union,.89976567,.10023433
+pub.1034391378,2015,Advanced Materials,713,40,China,.75154322,.24845678
+pub.1034431632,2017,Annals of Surgery,746,32,United States,.92896324,.071036756
+pub.1034520004,1992,Journal of Adolescent Research,2821,52,United States,.76377457,.23622543
+pub.1034676630,2010,Science Bulletin,1344,37,China,.86158055,.13841945
+pub.1034709856,1980,Journal of Communication,900,47,United States,.77418262,.22581738
+pub.1034809454,2001,Children and Youth Services Review,1202,44,United States,.95942605,.040573955
+pub.1035307961,2013,Applied Catalysis B Environmental,688,40,China,.84352624,.15647376
+pub.1035654612,2002,Journal of Business Research,2596,35,European Union,.80059093,.19940907
+pub.1035750524,1981,Curriculum Inquiry,540,39,United States,.75139666,.24860334
+pub.1036082464,1988,Criminology,994,44,United States,.82907361,.17092639
+pub.1036119863,2010,Journal of Diabetes Investigation,1179,32,Rest High Income,.88317472,.11682528
+pub.1036462093,2010,Nucleic Acids Research,889,34,China,.81822526,.18177474
+pub.1036675727,2016,Angewandte Chemie International Edition,932,34,China,.90674365,.093256354
+pub.1036964766,2017,Advanced Energy Materials,966,40,China,.7844941,.2155059
+pub.1037330339,2012,Journal of the American Chemical Society,1312,34,China,.83363515,.16636485
+pub.1037439545,1988,Journal of Clinical Epidemiology,1380,42,United States,.90126979,.098730206
+pub.1037556513,1992,Journal of Substance Abuse Treatment,3732,52,United States,.8183701,.1816299
+pub.1037635083,2015,Journal of the American Chemical Society,747,40,China,.7706942,.2293058
+pub.1037761839,1987,Criminology,697,44,United States,.79986775,.20013225
+pub.1037910984,2011,Contraception,1065,32,United States,.76003939,.23996061
+pub.1038056293,1989,Demography,639,44,United States,.77814627,.22185373
+pub.1038228715,2008,Journal of Geophysical Research,2044,37,European Union,.85004282,.14995718
+pub.1038271802,2002,American Journal of Epidemiology,2989,42,United States,.86754805,.13245195
+pub.1038484401,1980,The Journal of Nervous and Mental Disease,2776,32,United States,.78308231,.21691769
+pub.1038506731,2016,Advanced Materials,970,34,China,.77604747,.22395253
+pub.1038551807,1985,Justice Quarterly,392,48,United States,.82425928,.17574072
+pub.1038553367,2015,Advanced Materials,1593,40,China,.89564013,.10435987
+pub.1038646322,2013,Sociology,899,44,European Union,.77470642,.22529358
+pub.1038710751,2016,Journal of European Public Policy,764,44,European Union,.81098485,.18901515
+pub.1038778884,2009,Journal of the American College of Surgeons,1125,32,United States,.87316614,.12683386
+pub.1038904130,1987,Canadian Review of Sociology/Revue canadienne de sociologie,634,44,Rest High Income,.89119011,.10880989
+pub.1038907925,2012,Journal of Experimental Botany,613,30,China,.75162888,.24837112
+pub.1039302592,1994,American Political Science Review,1211,44,United States,.77558613,.22441387
+pub.1039944488,2015,Advanced Materials,750,40,China,.82479256,.17520744
+pub.1040353388,2008,Annals of Surgical Oncology,1590,32,United States,.94920796,.050792038
+pub.1040394468,2005,Exceptional Children,2261,39,United States,.75921941,.24078059
+pub.1040400567,2016,Advanced Materials,875,40,China,.90927207,.090727925
+pub.1040866583,2014,Molecular Cancer,844,32,China,.93763232,.062367678
+pub.1041129057,2016,Journal of Clinical Oncology,816,32,China,.88377535,.11622465
+pub.1041200222,2012,Advanced Materials,1689,51,China,.80456477,.19543523
+pub.1041200268,2017,Signal Processing,629,40,China,.77286303,.22713697
+pub.1041241422,1985,Journal of Applied Behavior Analysis,1655,52,United States,.80807704,.19192296
+pub.1041326259,2015,Applied Catalysis B Environmental,827,34,China,.84606749,.15393251
+pub.1041396432,1998,Journal of Clinical Epidemiology,1832,42,European Union,.94712156,.052878439
+pub.1041645319,2016,Journal of the American Chemical Society,1514,40,China,.78902978,.21097022
+pub.1041683302,2016,Angewandte Chemie International Edition,1847,34,China,.81491488,.18508512
+pub.1041750518,2007,Physica A Statistical Mechanics and its Applications,828,49,China,.81712753,.18287247
+pub.1041848705,2011,Ciência e Agrotecnologia,3107,46,Rest Mid/Low Income,.96486026,.03513974
+pub.1041848859,2015,Advanced Materials,1494,34,China,.91574121,.084258795
+pub.1041950063,1987,Hispanic Journal of Behavioral Sciences,1865,52,United States,.91376412,.086235881
+pub.1042139425,2014,Advanced Materials,1369,40,China,.77725267,.22274733
+pub.1042164384,1987,Journal of Consulting and Clinical Psychology,2073,52,United States,.83994013,.16005987
+pub.1042241579,2014,Nature Communications,1100,34,China,.82370901,.17629099
+pub.1042531175,2013,Nano Letters,1250,34,China,.75266844,.24733156
+pub.1042760505,1996,JAMA Psychiatry,621,48,United States,.83617204,.16382796
+pub.1042953498,2011,International Journal of Climatology,1072,37,United States,.89819604,.10180396
+pub.1042974573,1986,Peptides,824,34,United States,.77521843,.22478157
+pub.1043232906,2009,Bioinformatics,3380,31,China,.80313677,.19686323
+pub.1043831064,2002,Environmental Toxicology and Chemistry,1433,41,United States,.78301197,.21698803
+pub.1043902186,2002,Physical Review A,1470,51,China,.87458509,.12541491
+pub.1044001114,2013,Chinese Journal of Natural Medicines,1074,42,China,.92576844,.074231565
+pub.1044155591,2010,Proceedings of the National Academy of Sciences of the United States of America,559,30,China,.76255149,.23744851
+pub.1044389831,2015,JAMA Psychiatry,878,42,United States,.82389283,.17610717
+pub.1044473955,2013,ACS Applied Materials & Interfaces,1098,34,China,.75263584,.24736416
+pub.1044720875,1994,Justice Quarterly,569,48,United States,.77672541,.22327459
+pub.1044847621,2008,International Journal of Climatology,2255,37,United States,.80350029,.19649971
+pub.1044891068,2015,Advanced Materials,702,40,China,.78046411,.21953589
+pub.1045589258,2015,Angewandte Chemie International Edition,872,34,China,.80614227,.19385773
+pub.1045810642,2016,Advanced Materials,762,40,China,.77380216,.22619784
+pub.1045832156,2013,Advanced Materials,1010,51,China,.79819697,.20180303
+pub.1046285514,2005,Biomass and Bioenergy,879,30,United States,.78504169,.21495831
+pub.1047094596,2016,Nature Communications,1655,31,China,.87124693,.12875307
+pub.1047405927,1990,International Journal of Impact Engineering,632,40,United States,.80716211,.19283789
+pub.1047629078,1988,Communication Education,485,39,United States,.79947919,.20052081
+pub.1047665159,2016,Energy & Environmental Science,671,40,China,.75664371,.24335629
+pub.1047675570,2010,New England Journal of Medicine,1697,42,United States,.81647843,.18352157
+pub.1047727130,2014,Geophysical Research Letters,954,41,United States,.86282605,.13717395
+pub.1047733984,2005,Climatic Change,518,43,European Union,.84526998,.15473002
+pub.1047796195,2013,Nanoscale,844,34,China,.76576078,.23423922
+pub.1047841515,2003,Sādhanā,943,40,Rest Mid/Low Income,.80087608,.19912392
+pub.1047894212,2016,Automatica,711,40,China,.87083334,.12916666
+pub.1048664624,2014,Food and Chemical Toxicology,1032,32,United States,.81911546,.18088454
+pub.1048706458,2016,Journal of the American Chemical Society,644,40,China,.79609036,.20390964
+pub.1048884806,2005,Angewandte Chemie International Edition,1649,34,China,.77173924,.22826076
+pub.1048898648,2008,New England Journal of Medicine,2386,42,United States,.82331854,.17668146
+pub.1049042611,2016,European Journal of Soil Biology,784,41,China,.81102735,.18897265
+pub.1049139889,2012,Chemical Communications,936,40,China,.77144444,.22855556
+pub.1049632972,2011,Scandinavian Journal of Public Health,1254,42,European Union,.88733882,.11266118
+pub.1049706098,2001,Criminology,1380,44,United States,.79367298,.20632702
+pub.1049783119,2013,International Journal of Epidemiology,1476,42,European Union,.78123975,.21876025
+pub.1049950064,2001,Environmental Modelling & Software,1418,37,Rest High Income,.83019727,.16980273
+pub.1050052692,2001,Gut,1405,32,Rest High Income,.77498919,.22501081
+pub.1050180888,2000,Social Science & Medicine,1189,44,United States,.75329906,.24670094
+pub.1050601731,2014,ACS Applied Materials & Interfaces,684,40,China,.77041674,.22958326
+pub.1050947454,2006,Journal of the American Society of Nephrology,1613,32,China,.90274543,.097254574
+pub.1051370818,1999,New England Journal of Medicine,1616,42,United States,.8503533,.1496467
+pub.1051684169,2006,Educational Researcher,1726,39,United States,.90070707,.099292934
+pub.1051731942,1989,The Annals of the American Academy of Political and Social Science,422,33,United States,.84789646,.15210354
+pub.1051798928,2009,American Psychologist,2055,52,United States,.82664251,.17335749
+pub.1051823461,2009,Biological Conservation,2692,41,Rest Mid/Low Income,.80735332,.19264668
+pub.1051884303,2017,Hepatology,680,32,China,.91788936,.082110643
+pub.1051898931,2008,Technology Analysis and Strategic Management,1338,44,European Union,.75929296,.24070704
+pub.1052023921,2009,Proceedings of the National Academy of Sciences of the United States of America,2045,30,China,.79150188,.20849812
+pub.1052087072,2014,American Journal of Political Science,741,44,United States,.75540835,.24459165
+pub.1052363787,2015,New England Journal of Medicine,996,32,United States,.78402889,.21597111
+pub.1052576224,2002,Medical Care,1690,42,United States,.86569405,.13430595
+pub.1052716229,2014,Ciência e Agrotecnologia,801,49,Rest Mid/Low Income,.96458071,.035419285
+pub.1053936412,2001,Urban Education,926,39,United States,.90659338,.093406618
+pub.1054072017,1981,Language in Society,633,47,United States,.82336521,.17663479
+pub.1054077023,2002,Journal of Teacher Education,961,39,United States,.76303333,.23696667
+pub.1054161357,1997,JAMA,2003,32,United States,.78211135,.21788865
+pub.1055087511,2015,Environmental Science and Technology,2846,41,China,.9028284,.097171605
+pub.1055088174,2015,Environmental Science and Technology,933,40,China,.86894876,.13105124
+pub.1055121992,2016,Nano Letters,949,40,China,.81416583,.18583417
+pub.1055129218,2016,ACS Applied Materials & Interfaces,653,40,China,.79940581,.20059419
+pub.1055130984,2016,ACS Applied Materials & Interfaces,752,40,China,.7905606,.2094394
+pub.1055134002,2016,ACS Catalysis,852,34,China,.80269712,.19730288
+pub.1055134245,2016,ACS Catalysis,745,34,China,.76246369,.23753631
+pub.1055137679,2016,ACS Nano,847,34,China,.84576917,.15423083
+pub.1055142861,2012,ACS Applied Materials & Interfaces,819,40,China,.81599754,.18400246
+pub.1055144238,2013,ACS Applied Materials & Interfaces,741,40,China,.83943439,.16056561
+pub.1055145932,2014,ACS Applied Materials & Interfaces,844,40,China,.89130366,.10869634
+pub.1055405052,1996,Journal of Chemical Information and Modeling,862,34,European Union,.90860504,.091394961
+pub.1055503309,2011,Environmental Science and Technology,1018,34,China,.79325074,.20674926
+pub.1055504323,2012,Environmental Science and Technology,947,40,China,.80924642,.19075358
+pub.1055508604,2014,Environmental Science and Technology,1487,30,China,.87150532,.12849468
+pub.1055856158,2014,Journal of the American Chemical Society,739,40,China,.7711969,.2288031
+pub.1055856254,2014,Journal of the American Chemical Society,1160,40,China,.81605744,.18394256
+pub.1055856528,2014,Journal of the American Chemical Society,917,34,China,.75002265,.24997735
+pub.1055856901,2014,Journal of the American Chemical Society,951,34,China,.77676201,.22323799
+pub.1055875619,2016,Journal of the American Chemical Society,832,34,China,.86886662,.13113338
+pub.1055875683,2016,Journal of the American Chemical Society,819,40,China,.77476335,.22523665
+pub.1056074885,2008,The Journal of Physical Chemistry C,1122,34,China,.80997181,.19002819
+pub.1056220519,2014,Nano Letters,1035,34,China,.79178905,.20821095
+pub.1056223810,2011,ACS Nano,1110,34,China,.80097491,.19902509
+pub.1056224861,2012,ACS Nano,718,40,China,.88796175,.11203825
+pub.1056226034,2014,ACS Nano,809,32,China,.7863946,.2136054
+pub.1057470587,1998,Planta Medica,1526,32,Rest Mid/Low Income,.79868835,.20131165
+pub.1058716671,2004,Isis,491,43,European Union,.7647059,.2352941
+pub.1058961303,1984,Journal of Physics Condensed Matter,611,40,European Union,.80754507,.19245493
+pub.1059380798,1987,American Journal of Epidemiology,1034,42,United States,.87591887,.12408113
+pub.1059674202,1989,International Journal of Epidemiology,899,42,United States,.87428612,.12571388
+pub.1059676827,2016,International Journal of Epidemiology,902,49,Rest High Income,.94596285,.054037154
+pub.1060134873,1998,Annals of Surgery,1439,32,United States,.83828056,.16171944
+pub.1060727066,2001,Physical Review E,1273,40,China,.77520883,.22479117
+pub.1060743153,2012,Physical Review E,738,49,China,.81167227,.18832773
+pub.1061168792,1993,IEEE Transactions on Industrial Electronics,1014,40,Rest High Income,.77359813,.22640187
+pub.1061398650,2014,Computing in Science & Engineering,2917,46,United States,.88822728,.11177272
+pub.1061524610,1980,IEEE Transactions on Biomedical Engineering,581,40,European Union,.75544304,.24455696
+pub.1061573687,2014,IEEE Transactions on Control Systems Technology,738,40,China,.75786716,.24213284
+pub.1061612800,2014,IEEE Transactions on Geoscience and Remote Sensing,746,40,China,.90328139,.096718609
+pub.1061613202,2013,IEEE Transactions on Geoscience and Remote Sensing,652,40,China,.75916427,.24083573
+pub.1061614333,2016,IEEE Transactions on Geoscience and Remote Sensing,929,40,China,.79884487,.20115513
+pub.1061614539,2016,IEEE Transactions on Geoscience and Remote Sensing,1340,37,China,.77912933,.22087067
+pub.1061643482,2013,IEEE Transactions on Image Processing,1237,46,China,.75060105,.24939895
+pub.1061744812,2015,IEEE Transactions on Pattern Analysis and Machine Intelligence,7443,46,China,.76471913,.23528087
+pub.1061794356,2015,IEEE Transactions on Systems Man and Cybernetics Systems,677,40,China,.76810724,.23189276
+pub.1062556856,1997,Science,485,43,European Union,.83699477,.16300523
+pub.1062561019,1998,Science,1746,32,United States,.79008037,.20991963
+pub.1063994442,1997,Journal of Health Psychology,3435,52,United States,.82721788,.17278212
+pub.1064001864,2011,Scandinavian Journal of Public Health,1863,42,European Union,.94088787,.059112132
+pub.1064001916,2011,Scandinavian Journal of Public Health,1271,42,European Union,.93847042,.061529577
+pub.1064001927,2011,Scandinavian Journal of Public Health,3257,42,European Union,.94665104,.053348958
+pub.1064002143,2012,Scandinavian Journal of Public Health,1509,42,European Union,.92618293,.073817074
+pub.1064204513,2016,Journal of Clinical Oncology,1419,32,China,.89763838,.10236162
+pub.1068051717,1991,Fisheries,854,30,United States,.81806856,.18193144
+pub.1068842848,2005,American Journal of Public Health,1788,42,United States,.90419763,.095802367
+pub.1068877856,2000,American Journal of Public Health,1790,42,United States,.81773573,.18226427
+pub.1069668224,1987,American Political Science Review,660,44,United States,.81145835,.18854165
+pub.1069670080,1990,American Political Science Review,643,44,United States,.88569605,.11430395
+pub.1069670081,1990,American Political Science Review,1113,44,United States,.76756316,.23243684
+pub.1069777905,1996,Journal of Health and Social Behavior,999,44,United States,.78474396,.21525604
+pub.1070055093,1999,Journal of Health and Social Behavior,1764,44,United States,.82785207,.17214793
+pub.1070194713,2001,Journal of Health and Social Behavior,1015,44,United States,.77997297,.22002703
+pub.1070902541,1988,Journal of Animal Science,384,30,United States,.78816754,.21183246
+pub.1072153340,2007,Solid State Phenomena,2460,40,Rest High Income,.88687819,.11312181
+pub.1073711280,2010,Annals of Internal Medicine,1120,32,United States,.81409091,.18590909
+pub.1073743070,2016,Annals of Internal Medicine,989,32,United States,.78416514,.21583486
+pub.1077150582,1992,American Journal of Epidemiology,1777,42,United States,.82712382,.17287618
+pub.1077661478,1991,European Journal of Clinical Nutrition,938,32,European Union,.87545133,.12454867
+pub.1079396412,2017,Journal of the American Chemical Society,749,34,China,.79000068,.20999932
+pub.1083535244,2017,Small,1033,34,China,.84075159,.15924841
+pub.1083693605,2017,Energy & Environmental Science,622,40,China,.8216626,.1783374
+pub.1083738983,2017,Advanced Materials,696,40,China,.82522231,.17477769
+pub.1083751777,2017,Water Research,763,34,China,.86667907,.13332093
+pub.1083803964,2017,Advanced Materials,651,40,China,.8568027,.1431973
+pub.1083804554,2017,Journal of the American Chemical Society,634,40,China,.83094716,.16905284
+pub.1083805025,2017,Nature Chemistry,797,34,China,.8013851,.1986149
+pub.1083846631,2017,Journal of the American Chemical Society,678,34,China,.85297215,.14702785
+pub.1083865168,2017,ACS Catalysis,931,34,China,.80320895,.19679105
+pub.1084007093,2017,Advanced Functional Materials,699,40,China,.75716436,.24283564
+pub.1084007285,2017,Advanced Materials,784,40,China,.78023255,.21976745
+pub.1084008420,2017,Angewandte Chemie International Edition,672,34,China,.84135979,.15864021
+pub.1084060690,2017,Automatica,538,49,China,.83553541,.16446459
+pub.1084128859,2017,Nature Communications,987,40,China,.80990928,.19009072
+pub.1084206430,2017,IEEE Transactions on Instrumentation and Measurement,671,40,China,.75256515,.24743485
+pub.1084349494,2017,MMWR Morbidity and Mortality Weekly Report,798,32,United States,.84731811,.15268189
+pub.1084504196,2017,Advanced Materials,750,34,China,.83380437,.16619563
+pub.1084757732,2017,Angewandte Chemie International Edition,1552,34,China,.8024314,.1975686
+pub.1084813244,2017,JAMA Surgery,1527,32,United States,.85071927,.14928073
+pub.1084897873,2017,Advanced Materials,822,40,China,.80494434,.19505566
+pub.1085053966,2017,Nature Communications,702,34,China,.83434391,.16565609
+pub.1085103989,2017,Advanced Functional Materials,716,34,China,.79142147,.20857853
+pub.1085124038,2017,Angewandte Chemie International Edition,995,34,China,.79513913,.20486087
+pub.1085208553,2017,Angewandte Chemie International Edition,810,34,China,.81888771,.18111229
+pub.1085297021,2017,ACS Nano,847,40,China,.76224482,.23775518
+pub.1085320769,2017,Nucleic Acids Research,790,34,China,.75166446,.24833554
+pub.1085383840,2017,Automatica,453,49,China,.76239562,.23760438
+pub.1085431373,2017,Hepatology,973,32,China,.95757771,.042422295
+pub.1085469997,2017,Journal of the American Chemical Society,756,34,China,.87437499,.12562501
+pub.1085616395,2017,Journal of the American Chemical Society,730,34,China,.79922652,.20077348
+pub.1086072779,2017,Nature Nanotechnology,652,32,China,.83621567,.16378433
+pub.1086148713,2017,Nurse Education Today,1740,39,European Union,.75826484,.24173516
+pub.1086246416,2017,Energy & Environmental Science,871,40,China,.83410126,.16589874
+pub.1086323216,2017,JAMA,1659,32,China,.90592879,.094071209
+pub.1090392971,2017,ACS Nano,653,32,China,.90512729,.094872713
+pub.1090891684,2017,Green Chemistry,847,34,China,.8628183,.1371817
+pub.1090901926,2017,Journal of the American Chemical Society,731,34,China,.82630372,.17369628
+pub.1090931489,2017,Advanced Materials,638,51,China,.84870625,.15129375
+pub.1091050316,2018,Mechanical Systems and Signal Processing,921,40,China,.77424425,.22575575
+pub.1091079829,2017,Advanced Materials,617,40,China,.81662339,.18337661
+pub.1091116098,2017,JAMA Psychiatry,1084,32,United States,.78961259,.21038741
+pub.1091159782,2017,Advanced Materials,1391,40,China,.82697958,.17302042
+pub.1091228187,2017,Advanced Materials,687,34,China,.78842038,.21157962
+pub.1091298606,2017,Nature Communications,1085,34,China,.88477975,.11522025
+pub.1091343502,2017,Science,732,40,China,.7598725,.2401275
+pub.1091503475,2017,Journal of Cleaner Production,590,33,European Union,.77584541,.22415459
+pub.1091620957,2017,Journal of the American Chemical Society,690,40,China,.7797001,.2202999
+pub.1092105046,2017,IEEE Transactions on Systems Man and Cybernetics Systems,766,40,China,.82951832,.17048168
+pub.1092116971,2017,Environmental Science and Technology,648,40,China,.92982048,.070179522
+pub.1092119340,2017,Nature Communications,1128,32,China,.89380533,.10619467
+pub.1092241020,2017,Energy & Environmental Science,845,40,China,.82586765,.17413235
+pub.1092275357,2017,Journal of Counseling Psychology,345,39,United States,.92456895,.075431049
+pub.1092325971,2017,Landscape and Urban Planning,957,41,China,.86309707,.13690293
+pub.1092357681,2017,Journal of the American Chemical Society,1015,40,China,.8237921,.1762079
+pub.1092685029,2017,Advanced Functional Materials,629,40,China,.85408568,.14591432
+pub.1092758839,2017,IEEE Transactions on Industrial Electronics,1405,40,China,.78385961,.21614039
+pub.1092955960,2018,Hepatology,960,32,China,.90578753,.094212472
+pub.1093049905,2017,Advanced Functional Materials,803,40,China,.84591579,.15408421
+pub.1093109139,2017,Academic Psychiatry,345,39,United States,.81527334,.18472666
+pub.1099599670,1980,Journal of Education,807,39,United States,.80413103,.19586897
+pub.1099600518,2017,GigaScience,1256,31,China,.82565629,.17434371
+pub.1099611761,2017,Advanced Materials,727,34,China,.88793159,.11206841
+pub.1099716608,2018,Angewandte Chemie International Edition,896,34,China,.79201978,.20798022
+pub.1099723050,2017,Advanced Functional Materials,630,40,China,.82618833,.17381167
+pub.1099904364,2017,American Journal of Public Health,672,32,United States,.79626554,.20373446
+pub.1100114285,2018,ACS Nano,669,34,China,.90284723,.09715277
+pub.1100161319,2018,Energy Storage Materials,562,40,China,.82754016,.17245984
+pub.1100275589,2018,Nature Communications,689,32,China,.84387308,.15612692
+pub.1100278348,2018,IEEE Transactions on Geoscience and Remote Sensing,991,40,China,.7538237,.2461763
+pub.1100288815,2018,Journal of the American Chemical Society,645,34,China,.89115638,.10884362
+pub.1100456532,2018,Journal of the American Chemical Society,1525,34,China,.86961943,.13038057
+pub.1100589416,2018,Advanced Materials,761,40,China,.86170387,.13829613
+pub.1100653463,2018,Environmental Science and Technology,674,41,China,.90621924,.093780756
+pub.1100712235,2018,Advanced Energy Materials,652,40,China,.82480592,.17519408
+pub.1100723456,2018,Journal of Hepatology,578,32,China,.96395904,.036040962
+pub.1100894024,2018,ZDM – Mathematics Education,318,39,European Union,.86774379,.13225621
+pub.1100894358,2018,Applied Catalysis B Environmental,644,40,China,.83917361,.16082639
+pub.1100973519,2018,Energy & Environmental Science,726,40,China,.7907877,.2092123
+pub.1101200585,2018,Joule,606,40,China,.82929808,.17070192
+pub.1101230735,2018,Pediatrics,1099,42,United States,.79617721,.20382279
+pub.1101266173,2018,JAMA Surgery,546,32,United States,.76413363,.23586637
+pub.1101315702,2018,Angewandte Chemie International Edition,730,34,China,.88692194,.11307806
+pub.1101367365,2018,Journal of the American Chemical Society,954,34,China,.78457028,.21542972
+pub.1101493264,2018,Chinese Journal of Cancer Research,880,42,China,.97079712,.029202878
+pub.1101772092,2018,Journal of Catalysis,627,34,China,.76145691,.23854309
+pub.1103149436,2018,Nature Communications,769,32,China,.90725625,.092743754
+pub.1103149608,2018,Nature Communications,800,34,China,.82509983,.17490017
+pub.1103186301,2018,Land Use Policy,544,44,China,.89135671,.10864329
+pub.1103197157,2018,Advanced Functional Materials,1175,34,China,.89959073,.10040927
+pub.1103228561,2018,ACS Nano,555,40,China,.78303671,.21696329
+pub.1103268290,2018,Developmental Cognitive Neuroscience,672,32,United States,.81911582,.18088418
+pub.1103389050,2018,Chemistry of Materials,628,40,China,.87111771,.12888229
+pub.1103414568,2018,Proceedings of the National Academy of Sciences of the United States of America,472,30,China,.88965178,.11034822
+pub.1103549221,2018,Nature Communications,1171,40,China,.77660853,.22339147
+pub.1103549247,2018,Nature Climate Change,566,37,United States,.83268505,.16731495
+pub.1103692367,2018,ACS Nano,927,40,China,.80510348,.19489652
+pub.1103786145,2018,Science,995,40,China,.76928049,.23071951
+pub.1103817437,2018,Nature Genetics,317,30,China,.87247849,.12752151
+pub.1104012135,2018,ACS Energy Letters,758,40,China,.8077215,.1922785
+pub.1104911535,2018,Annals of Internal Medicine,692,32,United States,.93267816,.067321837
+pub.1105147373,2018,Joule,759,40,China,.7845763,.2154237
+pub.1105167377,2018,New England Journal of Medicine,1275,42,United States,.97123641,.028763592
+pub.1105236510,2018,Nature Protocols,650,32,China,.76502955,.23497045
+pub.1105309860,2018,Journal of the American Chemical Society,702,34,China,.89342117,.10657883
+pub.1105572456,2018,Science,570,40,China,.75938249,.24061751
+pub.1105646311,2018,Nature Communications,670,34,China,.76504058,.23495942
+pub.1105680935,2018,Advanced Energy Materials,863,34,China,.78579539,.21420461
+pub.1105714097,2018,Nature Communications,1031,34,China,.80164379,.19835621
+pub.1105852626,2018,Chemical Reviews,753,34,China,.8413195,.1586805
+pub.1106082978,2018,Advanced Materials,807,34,China,.79868162,.20131838
+pub.1106121048,2018,Clinical Infectious Diseases,554,32,China,.94228989,.057710111
+pub.1106160209,2018,Journal of Geophysical Research: Atmospheres,894,37,European Union,.8492555,.1507445
+pub.1106277100,2018,Advanced Functional Materials,578,40,China,.93628407,.063715935
+pub.1106712176,2018,IEEE Transactions on Fuzzy Systems,392,49,China,.90065712,.099342883
+pub.1106950362,2018,ISPRS Journal of Photogrammetry and Remote Sensing,581,40,United States,.82902038,.17097962
+pub.1106988416,2018,Nucleic Acids Research,919,31,China,.91691715,.083082855
+pub.1107107031,2018,Alzheimer's & Dementia,620,32,United States,.83841407,.16158593
+pub.1107349977,2018,Advanced Materials,634,40,China,.85892516,.14107484
+pub.1107354962,2018,Sociological Methods & Research,627,44,United States,.77503252,.22496748
+pub.1107392919,2019,Joule,584,40,China,.83126378,.16873622
+pub.1107481804,2019,Applied Catalysis B Environmental,645,34,China,.81627798,.18372202
+pub.1107704471,2018,ACS Nano,660,40,China,.8528083,.1471917
+pub.1107760974,2018,Advanced Materials,717,40,China,.86196744,.13803256
+pub.1107943292,2018,Water Research,669,34,China,.90812463,.091875374
+pub.1108032012,2019,Applied Catalysis B Environmental,1861,34,China,.8393507,.1606493
+pub.1108055229,2019,Cancer Research,447,32,China,.85786939,.14213061
+pub.1110127621,2018,Science,925,34,China,.76799268,.23200732
+pub.1110130731,2019,Automatica,432,49,China,.86250001,.13749999
+pub.1110583949,2018,Journal of the American Chemical Society,844,34,China,.9225381,.077461898
+pub.1110584072,2018,Nature Communications,625,34,China,.85707963,.14292037
+pub.1110647279,2018,IEEE Transactions on Reliability,824,40,China,.8799057,.1200943
+pub.1110714041,2018,Advanced Functional Materials,617,34,China,.93243927,.067560732
+pub.1110751717,2019,Theranostics,530,32,China,.80788237,.19211763
+pub.1110763905,2018,Accounts of Chemical Research,868,34,China,.75702137,.24297863
+pub.1111076513,2019,Mechanical Systems and Signal Processing,561,40,China,.82639021,.17360979
+pub.1111223606,2019,Nature Energy,680,40,China,.83590811,.16409189
+pub.1111311552,2019,Energy & Environmental Science,505,40,China,.81000835,.18999165
+pub.1111367172,2019,Angewandte Chemie International Edition,644,34,China,.86307585,.13692415
+pub.1111376776,2019,New Media & Society,177,36,United States,.88555557,.11444443
+pub.1111488697,2019,Applied Catalysis B Environmental,534,40,China,.82043988,.17956012
+pub.1111493662,2019,Science,789,34,China,.80995238,.19004762
+pub.1111497908,2019,Journal of the American Chemical Society,680,40,China,.89218384,.10781616
+pub.1111570937,2019,Advanced Materials,498,40,China,.90547276,.094527245
+pub.1111680446,2019,Chinese Journal of Oncology,766,42,China,.96314764,.03685236
+pub.1111760602,2019,Angewandte Chemie International Edition,610,34,China,.92002392,.079976082
+pub.1111898591,2019,Journal of Food Quality,363,30,Rest Mid/Low Income,.80641252,.19358748
+pub.1111984477,2019,Cardiovascular Research,474,32,China,.86123776,.13876224
+pub.1112056228,2019,JAMA Pediatrics,449,32,United States,.88690668,.11309332
+pub.1112071028,2019,Journal of the National Medical Association,450,32,United States,.77520692,.22479308
+pub.1112138809,2019,Journal of the American Chemical Society,1067,40,China,.82497245,.17502755
+pub.1112169080,2019,Neurology,760,32,United States,.76762933,.23237067
+pub.1112221983,2022,Journal of Rural Studies,119,44,China,.85238093,.14761907
+pub.1112230318,2019,BMC Bioinformatics,380,49,United States,.95947713,.040522873
+pub.1112307184,2019,Mayo Clinic Proceedings,642,32,United States,.77734745,.22265255
+pub.1112379135,2019,Chemical Engineering Journal,582,40,China,.94979382,.050206184
+pub.1112381219,2019,Advanced Functional Materials,569,40,China,.88090742,.11909258
+pub.1112585589,2019,Cancer Immunology Research,673,32,China,.94663197,.053368032
+pub.1112610196,2019,Nano Energy,545,40,China,.86704081,.13295919
+pub.1112683060,2019,Proceedings of the National Academy of Sciences of the United States of America,308,30,United States,.79611194,.20388806
+pub.1112704979,2019,Journal of Hepatology,455,32,China,.87475502,.12524498
+pub.1112922556,2019,Bioinformatics,1338,31,China,.94048619,.059513807
+pub.1113006886,2019,Joule,665,40,China,.77934557,.22065443
+pub.1113053661,2019,Molecular Cancer,419,32,China,.86586386,.13413614
+pub.1113145829,2019,Molecular Cancer,485,32,China,.82086879,.17913121
+pub.1113170113,2019,Nature Communications,683,40,China,.82540172,.17459828
+pub.1113524258,2019,Advanced Materials,483,40,China,.90010709,.099892914
+pub.1113532981,2019,Journal of the American Chemical Society,526,40,China,.85192776,.14807224
+pub.1113673960,2019,Energy & Environmental Science,1275,40,China,.78788584,.21211416
+pub.1113709578,2019,Nucleic Acids Research,617,31,China,.88062161,.11937839
+pub.1113932512,2019,Advanced Functional Materials,584,40,China,.90876657,.091233432
+pub.1113960966,2019,Molecular Cancer,470,32,China,.87694305,.12305695
+pub.1115025859,2019,Water Research,536,34,China,.92825925,.071740746
+pub.1116173808,2019,New England Journal of Medicine,577,32,China,.86399168,.13600832
+pub.1117467701,2019,Molecular Cancer,482,32,China,.94551164,.054488361
+pub.1117786463,2019,Accounts of Chemical Research,927,34,China,.77881366,.22118634
+pub.1118143670,2019,Nature Energy,943,40,China,.87309116,.12690884
+pub.1119741773,2019,Hepatology Research,418,32,Rest High Income,.77162033,.22837967
+pub.1119807417,2019,Advanced Materials,779,34,China,.8152861,.1847139
+pub.1119863989,2019,Journal of the American Chemical Society,542,34,China,.78543359,.21456641
+pub.1119864899,2019,Nature Communications,664,32,China,.85043788,.14956212
+pub.1120144609,2019,Proceedings of the National Academy of Sciences of the United States of America,545,44,United States,.9149794,.085020602
+pub.1120250363,2020,Chemical Engineering Journal,443,40,China,.90294057,.097059429
+pub.1120332266,2019,New England Journal of Medicine,967,42,United States,.84811133,.15188867
+pub.1120338406,2019,Science,266,30,China,.81527424,.18472576
+pub.1120344647,2019,MMWR Morbidity and Mortality Weekly Report,619,32,United States,.77973729,.22026271
+pub.1120395945,2019,Advanced Materials,513,51,China,.85035217,.14964783
+pub.1120637867,2020,Chemical Engineering Journal,423,40,China,.96953291,.030467093
+pub.1120764555,2019,Advanced Functional Materials,505,40,China,.87843013,.12156987
+pub.1120867170,2019,Cell Research,709,31,China,.83720714,.16279286
+pub.1120921291,2020,Applied Catalysis B Environmental,409,40,China,.90221798,.097782016
+pub.1120977181,2019,Laboratory Animals,387,30,European Union,.77658713,.22341287
+pub.1120990571,2019,Advanced Materials,495,40,China,.79910827,.20089173
+pub.1121484055,2019,Gut,532,32,China,.9643904,.035609603
+pub.1121582442,2020,Chemical Engineering Journal,406,40,China,.93836528,.061634719
+pub.1121610650,2019,Molecular Ecology Resources,1621,31,China,.88248831,.11751169
+pub.1121878368,2020,Applied Catalysis B Environmental,419,40,China,.88853759,.11146241
+pub.1121949665,2020,Composites Part A Applied Science and Manufacturing,495,40,China,.8248381,.1751619
+pub.1122174021,2019,Nature,741,41,European Union,.75129843,.24870157
+pub.1122581771,2020,Chinese Journal of Catalysis,470,34,China,.81551278,.18448722
+pub.1122680728,2019,Proceedings of the National Academy of Sciences of the United States of America,1288,41,China,.82514936,.17485064
+pub.1122865136,2020,Applied Catalysis B Environmental,460,40,China,.91960835,.080391645
+pub.1122921385,2019,Accounts of Chemical Research,690,34,China,.80907863,.19092137
+pub.1123131127,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,922,46,China,.87622356,.12377644
+pub.1123342467,2019,Earth System Science Data,508,37,China,.90839356,.091606438
+pub.1123928316,2020,Bioresource Technology,210,30,China,.90136319,.098636806
+pub.1124067282,2020,Climate,408,37,United States,.83369964,.16630036
+pub.1124097230,2020,Angewandte Chemie International Edition,817,34,China,.92523241,.07476759
+pub.1124097829,2020,Accounts of Chemical Research,506,34,China,.77852172,.22147828
+pub.1124211774,2020,Scientific Data,754,37,China,.87993956,.12006044
+pub.1124223638,2020,Angewandte Chemie International Edition,766,34,China,.84507024,.15492976
+pub.1124425490,2020,Journal of the American Chemical Society,586,40,China,.84556967,.15443033
+pub.1124600127,2020,JAMA Network Open,503,32,United States,.94190258,.058097422
+pub.1124797555,2020,Advanced Science,600,32,China,.91615123,.083848774
+pub.1124843131,2020,Advanced Functional Materials,521,40,China,.8029595,.1970405
+pub.1124934096,2020,Japanese Journal of Infectious Diseases,414,32,Rest High Income,.78920943,.21079057
+pub.1124937864,2020,ACS Nano,410,32,China,.94501954,.054980457
+pub.1124954784,2020,"G3: Genes, Genomes, Genetics",849,31,European Union,.77207536,.22792464
+pub.1125022043,2020,ACS Catalysis,476,34,China,.85951853,.14048147
+pub.1125115334,2020,The Lancet Oncology,408,32,China,.94589603,.054103971
+pub.1125132242,2020,Molecular Cancer,564,31,China,.95021218,.049787819
+pub.1125132844,2020,Advanced Functional Materials,547,40,China,.82689029,.17310971
+pub.1125205279,2020,Database,522,31,China,.96602988,.033970118
+pub.1125314363,2020,Applied Catalysis B Environmental,471,34,China,.7925626,.2074374
+pub.1125508672,2020,Proceedings of the National Academy of Sciences of the United States of America,630,39,United States,.82378554,.17621446
+pub.1125549603,2020,Nature,605,32,China,.89701223,.10298777
+pub.1125552581,2020,Journal of Hazardous Materials,470,41,China,.78870332,.21129668
+pub.1125563859,2020,Journal of Environmental Management,204,30,China,.91348135,.086518645
+pub.1125612487,2020,Molecular Cancer,696,32,China,.97718346,.022816539
+pub.1125675415,2020,Advanced Functional Materials,441,40,China,.81889015,.18110985
+pub.1125675809,2020,Nature Energy,430,40,China,.79581034,.20418966
+pub.1125676899,2020,Advanced Materials,465,40,China,.91724133,.082758665
+pub.1125678530,2020,Advanced Energy Materials,453,34,China,.86006188,.13993812
+pub.1125794330,2020,Pharmacological Research,532,32,China,.78204948,.21795052
+pub.1125998439,2020,Environmental Science and Pollution Research,339,44,China,.77481061,.22518939
+pub.1126055266,2020,Chemical Engineering Journal,410,40,China,.77011418,.22988582
+pub.1126057946,2020,Nature Communications,451,34,China,.81171089,.18828911
+pub.1126104333,2020,Accounts of Chemical Research,543,34,China,.83434826,.16565174
+pub.1126671592,2020,JAMA,1726,32,United States,.78166747,.21833253
+pub.1126700924,2020,Nano Energy,471,34,China,.79165727,.20834273
+pub.1126728209,2020,Science,761,32,China,.75334531,.24665469
+pub.1126788487,2020,Journal of Racial and Ethnic Health Disparities,606,42,United States,.79712832,.20287168
+pub.1127148434,2020,Chemical Research in Toxicology,450,34,United States,.84106117,.15893883
+pub.1127161076,2020,Bioresource Technology,239,30,China,.79409522,.20590478
+pub.1127164132,2020,The BMJ,1097,42,China,.9430992,.056900799
+pub.1127174818,2020,Basic and Applied Ecology,498,31,European Union,.86251986,.13748014
+pub.1127414858,2020,New England Journal of Medicine,596,42,United States,.81330937,.18669063
+pub.1127501698,2020,Carbon,729,51,China,.77876711,.22123289
+pub.1127610033,2020,Annals of Epidemiology,1047,42,United States,.80800104,.19199896
+pub.1127696265,2020,Applied Catalysis B Environmental,472,40,China,.93337649,.066623509
+pub.1127784556,2020,Health Affairs,488,42,United States,.83795041,.16204959
+pub.1127847031,2020,Remote Sensing,648,40,China,.87200409,.12799591
+pub.1128067604,2021,Chinese Journal of Catalysis,507,34,China,.83195949,.16804051
+pub.1128314516,2020,Public Understanding of Science,193,47,European Union,.83403361,.16596639
+pub.1128385665,2020,American Journal of Criminal Justice,335,44,United States,.78593075,.21406925
+pub.1128468702,2020,Journal of the American Chemical Society,725,40,China,.8142783,.1857217
+pub.1128562573,2020,New England Journal of Medicine,1004,32,United States,.86453593,.13546407
+pub.1128799533,2020,EDUKATIF JURNAL ILMU PENDIDIKAN,612,39,Rest Mid/Low Income,1,0
+pub.1129016944,2020,ACS Nano,558,40,China,.92192012,.078079879
+pub.1129715147,2020,ACS Nano,409,40,China,.88954759,.11045241
+pub.1129793974,2021,Land Use Policy,280,41,European Union,.79669154,.20330846
+pub.1129929804,2021,Applied Catalysis B Environmental,328,34,China,.89670539,.10329461
+pub.1130040315,2020,Energy & Environmental Science,429,40,China,.81091911,.18908089
+pub.1130138255,2021,Applied Catalysis B Environmental,490,40,China,.80021024,.19978976
+pub.1130159163,2020,Proceedings of the National Academy of Sciences of the United States of America,442,32,United States,.81998605,.18001395
+pub.1130470919,2020,ACS Energy Letters,471,34,China,.82945102,.17054898
+pub.1130635586,2021,Chemical Engineering Journal,303,40,China,.85687256,.14312744
+pub.1130656516,2020,Nature Communications,455,40,China,.79997653,.20002347
+pub.1130691667,2020,Nature,548,34,China,.90686852,.093131483
+pub.1130898788,2021,Applied Catalysis B Environmental,306,40,China,.93050754,.069492459
+pub.1130963930,2021,Carbon,315,34,China,.84636426,.15363574
+pub.1130969449,2011,School Psychology Review,915,39,United States,.93422282,.065777183
+pub.1131668013,2021,Nano Energy,324,40,China,.83833945,.16166055
+pub.1131848677,2020,Nucleic Acids Research,506,31,China,.90974671,.090253294
+pub.1131920035,2020,The BMJ,508,42,European Union,.7914874,.2085126
+pub.1131952099,2021,Clinical Cancer Research,396,32,China,.95336336,.046636641
+pub.1131955958,2020,Angewandte Chemie International Edition,513,34,China,.8406989,.1593011
+pub.1131962210,2020,Geophysical Research Letters,242,30,United States,.79809606,.20190394
+pub.1131963263,2021,Carbon,335,40,China,.96942759,.030572414
+pub.1132641699,2020,Educational Researcher,215,39,United States,.84126985,.15873015
+pub.1132775225,2020,Journal of Hematology & Oncology,428,32,China,.87159091,.12840909
+pub.1132780224,2021,Angewandte Chemie International Edition,334,34,China,.9176867,.082313299
+pub.1133125785,2020,Annals of Internal Medicine,786,32,United States,.80272245,.19727755
+pub.1133536676,2021,Theranostics,315,32,China,.90791476,.092085242
+pub.1133568870,2020,New England Journal of Medicine,908,42,United States,.91848952,.081510484
+pub.1133577451,2021,Nano Energy,537,40,China,.92014319,.079856813
+pub.1134040455,2020,JAMA Network Open,501,42,United States,.80442077,.19557923
+pub.1134291052,2021,Advanced Materials,462,40,China,.96486467,.035135329
+pub.1134356590,2021,Nature,204,30,China,.83261597,.16738403
+pub.1134360476,2021,Advances in Atmospheric Sciences,292,37,China,.94609976,.053900242
+pub.1134386149,2021,New England Journal of Medicine,380,42,United States,.79785883,.20214117
+pub.1134467753,2021,GigaScience,708,31,European Union,.90898913,.091010869
+pub.1134474800,2021,Brain Behavior and Immunity,247,32,China,.89979422,.10020578
+pub.1134496963,2021,Nature Communications,320,32,China,.9737463,.0262537
+pub.1134498717,2021,Angewandte Chemie International Edition,368,34,China,.82827306,.17172694
+pub.1134504644,2021,Proceedings of the National Academy of Sciences of the United States of America,262,30,United States,.7806291,.2193709
+pub.1134550752,2021,Emerging Infectious Diseases,296,32,United States,.83133805,.16866195
+pub.1134553678,2021,Cancer Cell,254,32,China,.76099896,.23900104
+pub.1134589242,2021,Advanced Materials,445,34,China,.94873685,.051263154
+pub.1134589280,2021,Proceedings of the National Academy of Sciences of the United States of America,366,44,United States,.77385336,.22614664
+pub.1134664655,2021,Advanced Functional Materials,376,40,China,.88940728,.11059272
+pub.1134669236,2021,British Journal of General Practice,291,42,European Union,.88827497,.11172503
+pub.1134688545,2021,Indian Journal of Ophthalmology,292,32,Rest Mid/Low Income,.94383794,.056162059
+pub.1134846998,2021,Energy Economics,369,35,China,.93763441,.062365592
+pub.1134897209,2022,IEEE Transactions on Neural Networks and Learning Systems,438,46,China,.88374221,.11625779
+pub.1134914623,2021,Frontiers in Marine Science,305,31,European Union,.82444721,.17555279
+pub.1134980107,2021,Aquaculture Reports,153,30,Rest Mid/Low Income,.91722792,.082772076
+pub.1135035958,2021,Health Affairs,279,42,United States,.8399123,.1600877
+pub.1135144636,2021,The Science of The Total Environment,202,37,China,.90293652,.097063482
+pub.1135150294,2021,Mycopathologia,431,31,Rest Mid/Low Income,.76816958,.23183042
+pub.1135201509,2021,Advanced Materials,412,40,China,.85578978,.14421022
+pub.1135237788,2021,Canadian Medical Association Journal,263,32,Rest High Income,.86468256,.13531744
+pub.1135367083,2021,Journal of Integrative Agriculture,176,30,China,.83550757,.16449243
+pub.1135379892,2021,Carbon,391,40,China,.75867718,.24132282
+pub.1135430266,2021,Advanced Materials,434,34,China,.83393347,.16606653
+pub.1135436689,2021,Advanced Materials,292,40,China,.89766991,.10233009
+pub.1135454583,2021,IEEE Geoscience and Remote Sensing Letters,368,40,China,.91172308,.088276923
+pub.1135460478,2021,Advanced Materials,451,40,China,.79586184,.20413816
+pub.1135556884,2021,Nature Communications,322,34,China,.85304022,.14695978
+pub.1135668159,2021,Equity & Excellence in Education,223,39,United States,.85606062,.14393938
+pub.1135821107,2021,Nature Communications,302,34,China,.84412271,.15587729
+pub.1135822389,2021,Nature Communications,378,40,China,.92179382,.078206182
+pub.1135877245,2021,Nature,540,40,China,.77317756,.22682244
+pub.1135919529,2021,Environmental Research Letters,153,30,Rest High Income,.82278645,.17721355
+pub.1136005046,2021,Advanced Science,301,40,China,.91637796,.083622038
+pub.1136008994,2021,Chinese Medical Journal,1480,32,China,.925008,.074992001
+pub.1136164345,2021,Journal of Maxillofacial and Oral Surgery,237,32,Rest Mid/Low Income,.92860574,.071394265
+pub.1136234059,2021,Food Research International,165,30,China,.82765049,.17234951
+pub.1136301287,2021,ACS Nano,262,32,China,.91631007,.083689928
+pub.1136380147,2021,IEEE Transactions on Geoscience and Remote Sensing,384,40,China,.91651863,.083481371
+pub.1136449277,2021,Nano-Micro Letters,475,34,China,.84390777,.15609223
+pub.1136568871,2021,Nature Energy,771,40,China,.88793701,.11206299
+pub.1136648652,2021,Resuscitation,314,32,European Union,.81343377,.18656623
+pub.1136651798,2021,ACS Nano,585,40,China,.86395139,.13604861
+pub.1136655939,2021,Resuscitation,379,32,European Union,.75516528,.24483472
+pub.1136668532,2021,Science,501,34,China,.85129505,.14870495
+pub.1136696962,2021,Energy Economics,517,38,China,.92871624,.071283758
+pub.1136718532,2021,Angewandte Chemie International Edition,375,34,China,.96377802,.036221981
+pub.1136719174,2021,Energy Policy,316,44,China,.93145162,.068548381
+pub.1136744000,2021,ACS Nano,491,40,China,.96077865,.039221346
+pub.1136780602,2021,ACS Omega,328,40,Rest Mid/Low Income,.76149309,.23850691
+pub.1136806967,2021,Computational and Theoretical Chemistry,348,34,China,.93485576,.065144241
+pub.1136810811,2021,Angewandte Chemie International Edition,309,34,China,.86718738,.13281262
+pub.1136824052,2021,IEEE Transactions on Fuzzy Systems,251,49,China,.80688703,.19311297
+pub.1136843312,2021,Advanced Materials,312,51,China,.88649756,.11350244
+pub.1136899476,2020,EDUKATIF JURNAL ILMU PENDIDIKAN,215,39,Rest Mid/Low Income,1,0
+pub.1136929852,2021,Nano-Micro Letters,288,40,China,.90699667,.093003333
+pub.1136969353,2021,Arquivos Brasileiros de Cardiologia,382,32,Rest Mid/Low Income,.89243656,.10756344
+pub.1136977465,2021,Energy Policy,211,44,China,.90508926,.094910741
+pub.1136999617,2021,The Journal of Laryngology and Otology,295,32,Rest Mid/Low Income,.92813712,.071862876
+pub.1137026018,2021,Energy Policy,496,33,China,.90895098,.091049016
+pub.1137279518,2021,Advanced Materials,499,40,China,.83238256,.16761744
+pub.1137306777,2021,Materials Today Proceedings,385,40,Rest Mid/Low Income,.93627709,.063722908
+pub.1137341809,2021,Nature,302,40,China,.86236203,.13763797
+pub.1137387647,2021,Remote Sensing,342,37,China,.77067101,.22932899
+pub.1137433926,2021,Petroleum Exploration and Development,312,40,China,.93786132,.062138677
+pub.1137462978,2021,Advanced Functional Materials,633,40,China,.93472725,.065272748
+pub.1137493508,2021,Advanced Materials,525,40,China,.86047459,.13952541
+pub.1137573130,2021,Science Advances,317,44,United States,.8482905,.1517095
+pub.1137615005,2021,Energy & Environmental Science,294,40,China,.83321118,.16678882
+pub.1137871226,2021,Nucleic Acids Research,720,31,China,.8073231,.1926769
+pub.1137969552,2021,Food Chemistry,165,30,China,.93230993,.067690074
+pub.1138033627,2021,Food Chemistry,136,30,China,.91997355,.080026448
+pub.1138039429,2021,Philosophy & Technology,129,50,European Union,.875,.125
+pub.1138330180,2021,Angewandte Chemie International Edition,517,34,China,.87838703,.12161297
+pub.1138401973,2021,Energy & Environmental Science,369,34,China,.88473493,.11526507
+pub.1138431217,2021,Advanced Materials,298,51,China,.75886834,.24113166
+pub.1138783270,2022,Chemical Engineering Journal,206,40,China,.96831167,.031688333
+pub.1138885487,2021,The Lancet Oncology,512,32,China,.90328223,.096717775
+pub.1138894229,2021,Earth System Science Data,395,37,China,.83680284,.16319716
+pub.1138981335,2021,Nature Communications,391,40,China,.81327111,.18672889
+pub.1139072460,2021,Bioactive Materials,300,40,China,.87350357,.12649643
+pub.1139256752,2021,IEEE Transactions on Geoscience and Remote Sensing,303,37,China,.84008771,.15991229
+pub.1139316344,2021,Frontiers in Immunology,362,31,China,.98076987,.019230127
+pub.1139365756,2021,Nature Communications,460,34,China,.93826365,.061736345
+pub.1139425612,2021,Journal of Advanced Research,250,32,China,.83217949,.16782051
+pub.1139573880,2021,Science,261,51,China,.75659215,.24340785
+pub.1139574900,2021,Science,407,40,China,.83144468,.16855532
+pub.1139810623,2021,IEEE Transactions on Geoscience and Remote Sensing,417,40,China,.83766747,.16233253
+pub.1139866116,2021,Joule,421,34,China,.79666692,.20333308
+pub.1139971744,2021,Environmental Science and Pollution Research,321,37,China,.84542328,.15457672
+pub.1140120525,2021,Advanced Materials,337,40,China,.87075835,.12924165
+pub.1140179913,2022,Food Hydrocolloids,108,30,China,.97858799,.021412015
+pub.1140369960,2021,Earth System Science Data,750,37,China,.9443925,.055607498
+pub.1140424201,2021,Energy Policy,261,44,China,.93885535,.06114465
+pub.1140544430,2021,Physical Chemistry Chemical Physics,651,40,China,.87283015,.12716985
+pub.1140552240,2021,Food Chemistry,183,30,China,.95032722,.049672782
+pub.1140557571,2022,Cancer Discovery,300,32,China,.93762255,.062377453
+pub.1140672428,2022,IEEE Transactions on Cybernetics,430,46,China,.86814284,.13185716
+pub.1140869496,2021,International Journal of Computer Vision,745,46,China,.75204229,.24795771
+pub.1141034026,2021,JAMA,334,32,China,.95838541,.041614592
+pub.1141064252,2021,Small,552,41,China,.93276238,.067237616
+pub.1141115006,2021,Small,332,40,China,.90929228,.090707719
+pub.1141267751,2021,Advanced Materials,323,40,China,.93601704,.063982964
+pub.1141420573,2022,Applied Mathematics and Computation,115,49,China,.8801282,.1198718
+pub.1141526509,2021,The BMJ,1855,42,European Union,.78397775,.21602225
+pub.1141691558,2022,Resources Conservation and Recycling,694,41,China,.86621135,.13378865
+pub.1141744219,2022,Applied Catalysis B Environmental,288,40,China,.94781393,.052186072
+pub.1141745324,2022,Journal of Business Research,343,35,China,.91245037,.087549627
+pub.1141914152,2022,Technological Forecasting and Social Change,169,35,China,.87480623,.12519377
+pub.1142039440,2021,Science,338,40,China,.88866258,.11133742
+pub.1142242178,2022,Resources Conservation and Recycling,186,41,China,.84731925,.15268075
+pub.1142263510,2021,Resources Policy,201,44,China,.79083335,.20916665
+pub.1142328201,2021,Resources Policy,203,44,China,.88643414,.11356586
+pub.1142343103,2021,Chinese Journal of Diabetes Mellitus,666,32,China,.97106051,.028939486
+pub.1142420128,2022,Applied Catalysis B Environmental,201,34,China,.84551495,.15448505
+pub.1142521365,2021,IEEE Transactions on Instrumentation and Measurement,302,40,China,.75499052,.24500948
+pub.1142587457,2021,Journal of the American Chemical Society,307,34,China,.902264,.097736001
+pub.1143054062,2022,Information Sciences,269,46,China,.83012623,.16987377
+pub.1143786330,2022,Ecological Economics,230,31,China,.79715449,.20284551
+pub.1144115227,2022,Ecological Indicators,142,41,China,1,0
+pub.1144196367,2022,Angewandte Chemie International Edition,200,34,China,.86552477,.13447523
+pub.1144235797,2022,Technology in Society,209,44,China,.85485846,.14514154
+pub.1144264903,2022,Joule,579,40,China,.84086847,.15913153
+pub.1144442685,2022,Energy & Environmental Science,297,34,China,.93291926,.067080736
+pub.1144482006,2022,Journal of Hematology & Oncology,111,32,China,.8888889,.1111111
+pub.1144494933,2022,Angewandte Chemie International Edition,358,34,China,.95101315,.048986852
+pub.1144518071,2022,Developmental Psychology,62,39,United States,1,0
+pub.1144521417,2022,Journal of Experimental & Clinical Cancer Research,121,32,China,.83333331,.16666669
+pub.1144543323,2022,Nature Communications,174,34,China,.81144959,.18855041
+pub.1144548143,2022,Physical Chemistry Chemical Physics,189,51,China,.75949073,.24050927
+pub.1144549691,2022,Angewandte Chemie International Edition,285,34,China,.82115698,.17884302
+pub.1144625154,2022,Nonlinear Dynamics,127,49,China,.88591838,.11408162
+pub.1144675212,2022,Colloids and Surfaces A Physicochemical and Engineering Aspects,179,34,Rest Mid/Low Income,.84211117,.15788883
+pub.1144685327,2022,Molecular Cancer,122,32,China,1,0
+pub.1144686587,2022,The Lancet Oncology,115,32,China,.86153847,.13846153
+pub.1144721694,2022,Advanced Energy Materials,221,34,China,.87172389,.12827611
+pub.1144733052,2022,Chinese Journal of Catalysis,173,34,China,.8888889,.1111111
+pub.1144733070,2022,Chinese Journal of Catalysis,251,34,China,.89537936,.10462064
+pub.1144750240,2022,Advanced Materials,268,40,China,.84802717,.15197283
+pub.1144759419,2022,IEEE Transactions on Geoscience and Remote Sensing,245,40,China,.88944101,.11055899
+pub.1144794490,2022,IEEE Transactions on Geoscience and Remote Sensing,177,37,China,.87692308,.12307692
+pub.1144797799,2022,The Annals of Family Medicine,169,42,United States,.87755102,.12244898
+pub.1144798650,2022,Health Affairs,153,42,United States,.83636361,.16363639
+pub.1144822895,2022,Journal of the American Chemical Society,194,34,China,.89883566,.10116434
+pub.1144854604,2022,JAMA,227,42,United States,.79285717,.20714283
+pub.1144860535,2022,Environmental Science and Pollution Research,164,37,China,.86692709,.13307291
+pub.1144901518,2022,Food and Chemical Toxicology,123,30,Rest Mid/Low Income,.81641686,.18358314
+pub.1145006315,2022,Advanced Materials,392,34,China,.8757481,.1242519
+pub.1145008915,2022,Technology in Society,166,44,China,.83999997,.16000003
+pub.1145022213,2022,Nano-Micro Letters,180,40,China,.89627898,.10372102
+pub.1145043743,2022,Science,452,40,China,.86769783,.13230217
+pub.1145097652,2022,Energy Economics,495,38,China,.91005087,.089949131
+pub.1145128017,2022,ACS Nano,355,40,China,.82927644,.17072356
+pub.1145131144,2022,IEEE Transactions on Fuzzy Systems,136,49,China,.88071895,.11928105
+pub.1145159857,2022,EBioMedicine,147,42,China,.82916665,.17083335
+pub.1145165364,2022,Science Bulletin,172,40,China,.90529281,.094707191
+pub.1145193280,2022,Journal of Computational Chemistry,747,34,China,.90885973,.09114027
+pub.1145203600,2022,Learning and Individual Differences,67,39,China,1,0
+pub.1145230614,2022,Nature Neuroscience,213,32,United States,.76923078,.23076922
+pub.1145274894,2022,Advanced Materials,198,40,China,.88459575,.11540425
+pub.1145299731,2022,Angewandte Chemie International Edition,340,34,China,.89596587,.10403413
+pub.1145342651,2022,IEEE Transactions on Fuzzy Systems,229,49,China,.78208333,.21791667
+pub.1145346461,2022,Health Affairs,252,44,United States,.89285713,.10714287
+pub.1145346473,2022,Health Affairs,145,42,United States,.94444442,.055555582
+pub.1145346474,2022,Health Affairs,153,42,United States,.96333331,.036666691
+pub.1145367399,2022,Nano Research,256,40,China,.95263183,.047368169
+pub.1145409689,1995,Teachers College Record The Voice of Scholarship in Education,2868,39,United States,.90071309,.099286914
+pub.1145428363,2022,Nature Communications,200,32,China,.89989901,.10010099
+pub.1145437921,2022,Chinese Medical Journal,1486,32,China,.95959419,.04040581
+pub.1145476743,2022,Molecular Cancer,135,32,China,1,0
+pub.1145513322,2022,Food Chemistry,82,30,China,.79125541,.20874459
+pub.1145513753,2022,Nature Climate Change,275,37,United States,.8449471,.1550529
+pub.1145517295,2022,Proceedings of the National Academy of Sciences of the United States of America,177,51,China,.91011006,.089889944
+pub.1145715738,2022,Food Chemistry,102,30,China,.87654322,.12345678
+pub.1145723890,2022,Journal of Food Measurement and Characterization,106,30,China,.8206349,.1793651
+pub.1145741196,2022,Advanced Science,203,40,China,.87361711,.12638289
+pub.1145791317,2022,Molecular Cancer,142,32,China,.97058827,.029411733
+pub.1145825200,2022,Respiration,116,32,European Union,.8125,.1875
+pub.1145839517,2022,Advanced Materials,185,34,China,.94444448,.055555522
+pub.1145841576,2022,Joule,209,34,China,.87383908,.12616092
+pub.1145867252,2022,Drug and Alcohol Dependence,111,32,United States,.85000002,.14999998
+pub.1145980622,2022,JAMA Psychiatry,149,44,United States,.85119045,.14880955
+pub.1146005108,2022,Learning and Instruction,56,39,European Union,1,0
+pub.1146100063,2022,Nature Photonics,114,49,China,.80924368,.19075632
+pub.1146138694,2022,EDUKATIF JURNAL ILMU PENDIDIKAN,66,39,Rest Mid/Low Income,.98701298,.012987018
+pub.1146149163,2022,Nature Communications,167,40,China,.9816308,.018369198
+pub.1146157901,2022,Environmental Science & Technology Letters,167,41,United States,.85333335,.14666665
+pub.1146179200,2022,Advanced Science,120,32,China,.76756197,.23243803
+pub.1146180021,2022,American Journal of Transplantation,112,32,United States,.89285713,.10714287
+pub.1146212557,2022,Nature Communications,208,34,China,.91573298,.08426702
+pub.1146308689,2022,Applied Catalysis B Environmental,229,34,China,.90806878,.091931224
+pub.1146343748,2022,Science China Earth Sciences,158,37,China,.97619045,.023809552
+pub.1146414113,2022,Energy Policy,85,48,China,.97348487,.026515126
+pub.1146455569,2022,Journal of Material Science and Technology,219,40,China,.82520914,.17479086
+pub.1146474035,2022,Journal of Translational Medicine,123,32,European Union,.89021164,.10978836
+pub.1146474839,2022,Molecular Cell,173,32,China,1,0
+pub.1146564405,2022,Journal of Business Research,278,35,China,.85062659,.14937341
+pub.1146625662,2022,Journal of Cleaner Production,240,40,China,.91828573,.081714272
+pub.1146799672,2022,Cell,215,32,China,.78392857,.21607143
+pub.1146815971,2022,Archives of Disease in Childhood,120,32,European Union,.86008406,.13991594
+pub.1146847462,2022,Sustainable Cities and Society,220,33,China,.76739132,.23260868
+pub.1146942896,2022,Energy Policy,258,44,China,.91289681,.087103188
+pub.1146950032,2022,Inorganic Chemistry Frontiers,230,34,China,.75473422,.24526578
+pub.1147106015,2022,Advanced Functional Materials,176,40,China,.98000002,.019999981
+pub.1147185686,2022,Advanced Materials,198,34,China,.84526968,.15473032
+pub.1147188346,2022,Nano Research,204,40,China,.93929917,.060700834
+pub.1147208047,2022,Nature Communications,205,34,China,.8131237,.1868763
+pub.1147210458,2022,Advanced Materials,398,40,China,.90573788,.094262123
+pub.1147259828,2022,Energy & Environmental Science,312,34,China,.9481535,.051846504
+pub.1147310990,2022,JAMA Network Open,122,42,European Union,.87179488,.12820512
+pub.1147321997,2022,International Review of Financial Analysis,189,35,China,.95999998,.040000021
+pub.1147385501,2022,Combustion and Flame,177,40,China,.75242031,.24757969
+pub.1147530572,2022,Energy Policy,118,44,China,.90384614,.096153855
+pub.1147547111,2022,Canadian Medical Association Journal,117,42,Rest High Income,.88583636,.11416364
+pub.1147570012,2022,Nature,179,51,China,.87111109,.12888891
+pub.1147579673,2022,New England Journal of Medicine,147,32,China,.7568537,.2431463
+pub.1147662224,2022,Nano Research,72,47,China,.7986111,.2013889
+pub.1147791223,2022,Genes,190,31,China,.98688048,.013119519
+pub.1147859640,2022,Nano Research,168,40,China,.92132503,.078674972
+pub.1147896140,2022,Advanced Materials,202,40,China,.82499999,.17500001
+pub.1148072439,2022,Biomaterials,173,31,China,.90530306,.094696939
+pub.1148075771,2022,Jurnal Basicedu,134,39,Rest Mid/Low Income,1,0
+pub.1148075911,2022,Jurnal Basicedu,56,39,Rest Mid/Low Income,1,0
+pub.1148076018,2022,Jurnal Basicedu,86,39,Rest Mid/Low Income,.95238096,.047619045
+pub.1148147481,2022,EDUKATIF JURNAL ILMU PENDIDIKAN,137,39,Rest Mid/Low Income,1,0
+pub.1148374024,2022,Renewable and Sustainable Energy Reviews,177,40,China,.84854496,.15145504
+pub.1148378547,2022,Advanced Functional Materials,222,51,China,.86978024,.13021976
+pub.1148384261,2022,The Science of The Total Environment,170,37,China,.98958331,.010416687
+pub.1148433467,2022,Environmental Impact Assessment Review,183,44,China,.94583333,.054166675
+pub.1148542165,2022,Cell,182,31,United States,.81034482,.18965518
+pub.1148651136,2022,Advanced Functional Materials,230,40,China,.87523812,.12476188
+pub.1148655709,2022,Nano Research,388,34,China,.93406457,.065935433
+pub.1148657674,2022,Journal of the American Chemical Society,187,34,China,1,0
+pub.1148834993,2022,Advanced Materials,197,40,China,.76944447,.23055553
+pub.1148933573,2022,Advanced Materials,372,40,China,.88795358,.11204642
+pub.1149004827,2022,Frontiers in Pharmacology,136,32,China,.99025977,.0097402334
+pub.1149024905,2022,BMJ Global Health,137,42,European Union,1,0
+pub.1149064192,2022,Journal of the American Chemical Society,191,34,China,.84580499,.15419501
+pub.1149116446,2022,IEEE/CAA Journal of Automatica Sinica,270,40,China,.93333334,.066666663
+pub.1149127753,2022,Educational Researcher,62,39,United States,1,0
+pub.1149234409,2022,Journal of the American College of Cardiology,124,32,United States,1,0
+pub.1149328278,2022,Nature Communications,273,34,China,.96573853,.034261465
+pub.1149376346,2022,Frontiers in Immunology,144,32,China,1,0
+pub.1149468673,2022,Sustainable Cities and Society,126,44,China,.89761907,.10238093
+pub.1149504270,2022,The Lancet Infectious Diseases,248,32,China,.9037863,.096213698
+pub.1149676632,2022,Neurocomputing,510,46,China,.95806277,.041937232
+pub.1149785769,2022,Nature Communications,193,31,European Union,1,0
+pub.1149826177,2022,Science,605,34,China,.8237493,.1762507
+pub.1149894555,2022,Nature,175,44,United States,1,0
+pub.1149975419,2022,Jurnal Basicedu,105,39,Rest Mid/Low Income,1,0
+pub.1150004286,2022,Pediatrics,135,32,United States,1,0
+pub.1150026554,2022,Journal of Environmental Management,170,35,China,.93333334,.066666663
+pub.1150150377,2022,EClinicalMedicine,130,32,China,1,0
+pub.1150427696,2022,Business Strategy and the Environment,216,35,China,.87301588,.12698412
+pub.1150592943,2022,Nature Communications,138,52,European Union,.8449074,.1550926
+pub.1150789831,2022,Theory Culture & Society,76,47,European Union,1,0
+pub.1150861509,2022,Science,642,41,European Union,.77454543,.22545457
+pub.1150861772,2022,Gut,293,32,European Union,1,0
+pub.1151126421,2022,International Journal of Surgery,115,32,China,.99019611,.0098038912
+pub.1151187611,2022,Nature,79,39,United States,1,0
+pub.1151827994,2022,Nano Research,123,37,China,1,0
+pub.1151854383,2022,Nature Photonics,186,51,China,1,0
+pub.1151947993,2022,Nature Human Behaviour,141,42,European Union,.9545455,.045454502
+pub.1152040671,2022,Journal of Environmental Management,230,37,China,.88749999,.11250001
+pub.1152331649,2022,Implementation Science,410,52,United States,.82222223,.17777777
+pub.1152543321,2022,New England Journal of Medicine,257,32,United States,1,0
+pub.1152613551,2022,Nucleic Acids Research,375,31,European Union,1,0
+pub.1152615620,2022,Nano-Micro Letters,213,40,China,.9636364,.036363602
+pub.1152649124,2022,IEEE Transactions on Instrumentation and Measurement,284,40,China,.89565217,.10434783
+pub.1153599171,2022,Journal of the National Comprehensive Cancer Network,147,32,United States,1,0
+pub.1153873973,2022,New England Journal of Medicine,127,32,United States,1,0
